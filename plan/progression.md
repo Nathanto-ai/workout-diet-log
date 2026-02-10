@@ -73,6 +73,33 @@ Use those as your personal baseline and compare every 2 weeks.
 For posterior chain, progress glute bridges from bilateral to single-leg to loaded.
 
 ---
+<<<<<<< HEAD
+
+
+## Core progression (ab strength)
+
+### Hollow hold
+1. Tuck hollow
+2. One-leg extended hollow
+3. Full hollow
+4. Hollow rocks
+
+### Plank
+1. Front plank (short holds)
+2. Front plank (longer holds)
+3. RKC plank (hard-style brace)
+4. Weighted plank (vest/backpack)
+
+### Hanging core
+1. Hanging knee raise
+2. Slow hanging knee raise (pause at top)
+3. Hanging leg raise
+4. Toes-to-bar progression
+
+Rule: progress by +5-10 sec on holds or +1-2 reps when form stays strict.
+
+---
+ 
 
 ## Running progression
 

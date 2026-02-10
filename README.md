@@ -35,6 +35,7 @@ This repo is a **simple system**:
 
 - `config/` — your profile + targets
 - `plan/` — workout plan, diet plan, progression rules
+- `plan/evidence-check.md` — quick external validation against public guidance and major reviews
 - `logs/` — daily logs (Markdown)
 - `tracking/` — check-in template + measurements CSV
 - `scripts/` — optional helper script(s)
@@ -44,3 +45,20 @@ This repo is a **simple system**:
 - **Consistency beats optimal.**
 - Track **trend** (weekly averages), not single-day fluctuations.
 - Change **one thing at a time** (usually calories first).
+
+
+## Merge conflict quick-fix checklist
+
+If you hit merge conflicts while syncing branches:
+1. Check status: `git status`
+2. Find conflicted files: `git diff --name-only --diff-filter=U`
+3. Open each file and resolve conflict blocks (`<<<<<<<`, `=======`, `>>>>>>>`)
+4. Mark resolved files: `git add <file>`
+5. Complete merge/rebase:
+   - merge: `git commit`
+   - rebase: `git rebase --continue`
+6. Re-check clean state: `git status`
+
+Tip: if you're stuck, abort safely and retry:
+- merge: `git merge --abort`
+- rebase: `git rebase --abort`

@@ -155,8 +155,16 @@ Pick one:
 - Deload every 4th-6th week (or after high fatigue week): reduce sets by ~30-40%.
 - After 2+ nights of poor sleep, keep intensity but reduce volume by ~20% that day.
 
-## Explicit skill tracks included
+## Ab/Core strength focus
 
+Yes, this plan should increase ab strength if you progress these consistently:
+- Day 1: Hollow hold + front plank
+- Day 3: Hanging knee/leg raises + side plank
+- Day 5: Tuck L-sit + frog stand/handstand bracing
+
+Progression target: add 5-10 sec to holds or 1-2 reps weekly when form stays solid.
+
+## Explicit skill tracks included
 This plan directly progresses:
 - **Squat** (Day 3 + squat mobility)
 - **Push-up** (Day 1 + Day 5)
@@ -165,3 +173,19 @@ This plan directly progresses:
 - **Handstand** (Day 5 wall handstand + pike progression)
 - **Running** (Day 2 intervals + Day 4 easy/tempo + optional Day 6 Zone 2)
 - **Mobility/flexibility** (built into every training day + optional long session)
+ - **Ab/core strength** (Days 1/3/5 direct core work + bracing under skill work)
+
+## Are these workouts good for you? (quick self-audit)
+
+Use this checklist weekly. If you answer "yes" to most, the plan is working:
+- You completed at least **4-5 sessions** this week.
+- Main lifts/skills are stable or improving (more reps, cleaner reps, longer holds, or better control).
+- Running feels gradually easier at the same pace OR pace improves at similar effort.
+- No persistent joint pain (normal muscle soreness is okay).
+- Sleep/energy are stable enough to train.
+
+If 2+ are "no" for 2 weeks:
+- reduce total sets by ~20-30% for 1 week,
+- keep movement quality high,
+- keep protein high and avoid aggressive calorie cuts,
+- then rebuild volume.

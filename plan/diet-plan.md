@@ -5,9 +5,35 @@
 You want fat loss + muscle gain + performance support. Start with a **small deficit / near-maintenance** setup.
 
 - **Calories:** 2,250-2,350 kcal/day
-- **Protein:** 165-185 g/day
-- **Fat:** 60-75 g/day
-- **Carbs:** remainder (typically 210-290 g/day)
+ - **Protein:** 165-185 g/day
+ - **Protein (evidence context):** ~1.6-2.2 g/kg/day is a strong range for performance/recomp
+ - **Fat:** 60-75 g/day
+ - **Carbs:** remainder (typically 210-290 g/day)
+
+### How these calories and macros were calculated
+
+Using your profile bodyweight range (163-167 lb = ~74-76 kg), recomp goal, and 5-6 training days/week:
+
+1. **Calories**
+   - Practical maintenance estimate from your activity level: ~2,350-2,550 kcal/day.
+   - Recomp setup uses a small deficit on average: ~150-250 kcal below maintenance.
+   - That gives a starting target of **2,250-2,350 kcal/day**.
+
+2. **Protein**
+   - Evidence-based range for recomp/performance: ~1.6-2.2 g/kg.
+   - 74-76 kg x 1.6-2.2 = ~118-167 g/day.
+   - We set a performance-forward target of **160-185 g/day** to better support strength and skill progress while dieting slowly.
+
+3. **Fat**
+   - Set around ~0.8-1.0 g/kg as a practical floor for hormones/satiety.
+   - 74-76 kg x 0.8-1.0 = ~59-76 g/day.
+   - Target used: **60-75 g/day**.
+
+4. **Carbs (remainder)**
+   - Carbs are set with remaining calories after protein + fat.
+   - At 2,250 kcal with 170P/65F: carbs ~= (2250 - (170x4 + 65x9)) / 4 ~= 246 g.
+   - At 2,350 kcal with 185P/75F: carbs ~= (2350 - (185x4 + 75x9)) / 4 ~= 234 g.
+   - Practical range remains **~210-290 g/day** depending on run-day fueling and appetite.
 
 ### Adjustment rules (every 2 weeks)
 - If weekly average weight drops faster than ~0.75 lb/week and workouts feel weaker: **+100 kcal/day**
@@ -56,7 +82,6 @@ Build dinner with:
 - Sodium: do not under-salt, especially on running days
 
 ---
-
 
 ## Execution checklist (simple)
 
