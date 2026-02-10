@@ -1,156 +1,192 @@
+# Workout Plan (v1 - hybrid recomp + running + calisthenics)
 
-# Workout Plan (v0)
+**Goal:** body recomposition while improving stamina, calisthenics skill, and daily mobility/flexibility.
+Built for your current setup: **home + outdoors** with pull-up bar, rings, bands, weighted vest, mat, blocks, foam roller.
 
-**Goal:** recomp (lose fat slowly while building/keeping strength), improve running stamina, and increase mobility.
-This is built to work with minimal equipment (pull-up bar + floor).  
-If you add rings/bands/vest later, see `progression.md`.
+## Weekly schedule (5-6 days)
 
-## Weekly schedule (5 days + optional)
+- **Mon — Upper Strength + Core + Shoulder mobility** (~55-70 min)
+- **Tue — Run Intervals + Lower mobility** (~45-60 min)
+- **Wed — Lower Strength + Core + Hip mobility** (~55-70 min)
+- **Thu — Easy/Tempo Run + Mobility flow** (~40-60 min)
+- **Fri — Calisthenics Skill + Upper accessory** (~50-65 min)
+- **Sat — Zone 2 run OR long mobility/recovery** (~30-60 min, optional but recommended)
+- **Sun — Full rest**
 
-- **Mon — Upper + Core + Shoulder/Spine mobility** (~55–65 min)
-- **Tue — Running intervals + Hips/Ankles mobility** (~45–60 min)
-- **Wed — Lower + Core + Hips/Ankles mobility** (~55–65 min)
-- **Thu — Easy/tempo run + Spine/Shoulders mobility** (~45–60 min)
-- **Fri — Full-body skill + Wrists/Shoulders mobility** (~55–65 min)
-- **Sat — Optional: Long mobility + easy walk/jog** (30–60 min)
-- **Sun — Rest**
+> Morning default: train within 60-90 minutes after waking when possible.
 
-## How hard should this feel?
+## Week 1 baseline rule
 
-- Strength sets: stop with **1–2 reps in reserve (RIR)** most of the time.
-- Running: intervals feel hard but controlled; tempo is “can talk in short phrases”.
+Because current maxes are unknown, use Week 1 to find baseline performance:
+- pick variations that leave **1-2 reps in reserve (RIR)**
+- write best top set for **squat, push-up, pull-up, dip**, plus handstand hold time and running pace in your daily logs
+- use those numbers to progress weekly
 
 ---
 
-## Day 1 — Upper + Core + Shoulders/Spine mobility
+## Day 1 — Upper Strength + Core
 
-### Warm-up (8–10 min)
-1. **Scapular pulls (dead hang, small reps)** — 2×6–10
-2. **Incline push-ups** (hands on desk/couch if needed) — 2×8–12
-3. **Cat-cow** — 1×60 sec
-4. **Shoulder CARs** — 1×5/side
+### Warm-up (8-10 min)
+1. Scapular pull-ups — 2×6-10
+2. Banded shoulder openers — 2×10
+3. Incline or regular push-ups — 2×8-12
+4. Cat-cow + thoracic rotations — 60 sec each
 
-### Strength (30–35 min)
-**A1. Pull-ups** (or negatives / band-assisted) — 4×4–8  
-**A2. Push-ups** (incline if needed) — 4×8–15  
-Rest: 60–90 sec after A2
+### Strength (30-40 min)
+**A1. Pull-up progression** (band/ring row/full) — 4×4-8
+**A2. Push-up progression** (incline/floor/rings) — 4×8-15
 
-**B1. Dips** (chair/bench dips if no dip bars; keep shoulders down) — 3×6–12  
-**B2. Inverted row** (under a sturdy table OR towel rows in a door) — 3×8–12  
-Rest: 60–90 sec after B2
+**B1. Ring rows** (or band rows) — 3×8-12
+**B2. Ring support hold OR chair dip progression** — 3×10-30 sec / 6-12 reps
 
-**C1. Hollow body hold** — 3×20–40 sec  
-**C2. Front plank** — 3×30–60 sec  
-Rest: 45–60 sec
+**C1. Hollow hold** — 3×20-40 sec
+**C2. Front plank** — 3×30-60 sec
 
-### Mobility (10–15 min)
+### Mobility reset (8-12 min)
 - Wall slides — 2×10
-- Thoracic extensions (foam roller or rolled towel) — 2×8–10
+- Foam roll t-spine — 2×60 sec
 - Thread-the-needle — 2×8/side
 
 ---
 
-## Day 2 — Running intervals + Hips/Ankles mobility
+## Day 2 — Run Intervals + Lower Mobility
 
-### Run (20–30 min total)
-- 5 min easy warm-up jog/walk
-- **Intervals:** 1 min hard / 1 min easy × 8 rounds  
-  (If too hard: 45 sec hard / 75 sec easy × 8)
-- 5 min easy cool-down
+### Run (25-35 min)
+- 5-8 min easy jog/walk warm-up
+- **Main:** 1 min hard / 1 min easy × 8 rounds
+- 5 min cool-down walk
 
-### Mobility (12–18 min)
-- Couch stretch — 2×30–60 sec/side
-- 90/90 hip switches — 2×10 slow reps
-- Ankle dorsiflexion rocks (knee-to-wall) — 2×10/side
+Progression: add 1 round every 1-2 weeks up to 10 rounds, then increase hard segments.
+
+### Mobility (12-15 min)
+- Couch stretch — 2×45 sec/side
+- 90/90 switches — 2×10
+- Knee-to-wall ankle rocks — 2×10/side
 - Calf stretch — 2×30 sec/side
 
 ---
 
-## Day 3 — Lower + Core + Hips/Ankles mobility
+## Day 3 — Lower Strength + Core (squat focus)
 
-### Warm-up (8–10 min)
-- Air squats — 2×10
-- Glute bridges — 2×12
+### Warm-up (8-10 min)
+- Air squat — 2×10
+- Glute bridge — 2×12
 - Hip circles — 1×8/side
 - Ankle rocks — 1×10/side
 
-### Strength (30–35 min)
-**A1. Bulgarian split squat** — 4×6–10/leg  
-**A2. Glute bridge (2-leg or single-leg)** — 4×10–15  
-Rest: 60–90 sec
+### Strength (30-40 min)
+**A1. Squat progression** (counterbalance squat/goblet/backpack/front squat pattern) — 4×6-10
+**A2. Single-leg or standard glute bridge** — 4×10-15
 
-**B1. Wall sit** — 3×30–60 sec  
-**B2. Calf raises** (slow, full range) — 3×12–20  
-Rest: 60 sec
+**B1. Reverse lunge or step-up** — 3×8-12/leg
+**B2. Calf raises** (slow) — 3×12-20
 
-**C1. Hanging knee raises** (or lying leg raises) — 3×8–15  
-**C2. Side plank** — 3×20–45 sec/side  
-Rest: 45–60 sec
+**C1. Hanging knee raise or lying leg raise** — 3×8-15
+**C2. Side plank** — 3×20-45 sec/side
 
-### Mobility (10–15 min)
-- Deep squat hold (heels elevated if needed) — 2×30–60 sec
-- Frog stretch — 2×30–60 sec
+**Skill finisher (optional):**
+- Deep squat hold with controlled breathing — 2×45-75 sec
+
+### Mobility (8-12 min)
+- Deep squat hold — 2×30-60 sec
+- Frog stretch — 2×30-60 sec
 - Hamstring floss — 2×10/side
 
 ---
 
-## Day 4 — Easy/Tempo run + Spine/Shoulders mobility
+## Day 4 — Easy/Tempo Run + Mobility Flow
 
-### Run (25–35 min total)
-Option A (default):  
-- 5–8 min easy
-- **Tempo:** 15–20 min at ~70–80% effort
-- 5 min easy
+### Run options (choose 1)
+- **Tempo day:** 5-8 min easy + 15-20 min moderate-hard tempo + 5 min easy
+- **Easy day:** 25-40 min conversational pace
 
-Option B (stamina low):  
-- 25–30 min easy conversational pace (no tempo)
-
-### Mobility (12–18 min)
-- Shoulder dislocates (band/towel) — 2×10
-- Wall slides — 2×10
+### Mobility flow (10-15 min)
+- Shoulder dislocates (band) — 2×10
+- World's greatest stretch — 2 rounds/side
 - Thoracic rotations — 2×8/side
 - Hip flexor stretch — 2×30 sec/side
 
 ---
 
-## Day 5 — Full body skill + Wrists/Shoulders mobility
+## Day 5 — Calisthenics Skill + Upper Accessory
 
-### Warm-up (8–10 min)
-- Wrist circles — 1×20 each direction
-- Scap push-ups — 2×8–12
-- Pike hold — 2×20–30 sec
+### Warm-up (8-10 min)
+- Wrist prep circles + rocks — 2 min
+- Scap push-ups — 2×8-12
+- Pike hold — 2×20-30 sec
 
-### Skill + Strength (30–35 min)
-**A1. Handstand wall hold** — 4×20–40 sec  
-**A2. Pike push-ups** (incline if needed) — 4×6–12  
-Rest: 60–90 sec
+### Skill + strength (30-35 min)
+**A1. Wall handstand hold** — 4×20-40 sec
+**A2. Pike push-up** — 4×6-12
 
-**B1. Pull-up variation** (same as Day 1 but 1 set less) — 3×4–8  
-**B2. Split squat or step-ups** — 3×8–12/leg  
-Rest: 60–90 sec
+**B1. Pull-up variation** — 3×4-8
+**B2. Ring row or band face pull** — 3×10-15
 
-**C1. Frog stand practice** — 6×8–15 sec (quality holds)  
-**C2. L-sit tuck hold** (parallettes or floor) — 4×10–25 sec  
-Rest: 45–60 sec
+**B3. Dip progression** (ring support hold / feet-assisted ring dip / full dip) — 3×5-10
 
-### Mobility (10–15 min)
-- Wrist flexor stretch — 2×30 sec/side
-- Wrist extensor stretch — 2×30 sec/side
+**C1. Frog stand practice** — 6×8-20 sec
+**C2. Tuck L-sit hold** — 4×10-25 sec
+
+### Mobility (8-12 min)
+- Wrist flexor/extensor stretch — 2×30 sec each
 - Shoulder CARs — 2×5/side
+- Foam roll lats/pecs — 2×60 sec
+
+---
+
+## Day 6 (optional) — Recovery engine
+
+Pick one:
+1. Zone 2 jog/walk 30-45 min
+2. 25-40 min full-body mobility/yoga flow
+3. Easy mixed session: 20 min walk + 15 min mobility
 
 ---
 
 ## Progression rules (simple)
 
-Pick a rep range and **earn progression**.
+- Keep most sets at **RIR 1-2**.
+- When all sets hit top of range with good form, progress by one:
+  - harder variation,
+  - +1-2 reps,
+  - +5-10 sec hold,
+  - less band assistance,
+  - or small external load (weighted vest/backpack).
+- Deload every 4th-6th week (or after high fatigue week): reduce sets by ~30-40%.
+- After 2+ nights of poor sleep, keep intensity but reduce volume by ~20% that day.
 
-- If you hit the **top of the range** for all sets with 1–2 RIR → next week make it harder:
-  - harder variation, OR
-  - add 1–2 reps per set, OR
-  - add 5–10 sec per hold, OR
-  - reduce assistance (less band help, less incline), OR
-  - add load (vest/backpack)
+## Ab/Core strength focus
 
-Deload every 4th week if needed: do **~70%** of your normal sets.
+Yes, this plan should increase ab strength if you progress these consistently:
+- Day 1: Hollow hold + front plank
+- Day 3: Hanging knee/leg raises + side plank
+- Day 5: Tuck L-sit + frog stand/handstand bracing
 
-See: `progression.md`
+Progression target: add 5-10 sec to holds or 1-2 reps weekly when form stays solid.
+
+## Explicit skill tracks included
+
+This plan directly progresses:
+- **Squat** (Day 3 + squat mobility)
+- **Push-up** (Day 1 + Day 5)
+- **Pull-up** (Day 1 + Day 5)
+- **Dips** (Day 1 support + Day 5 dip progression)
+- **Handstand** (Day 5 wall handstand + pike progression)
+- **Running** (Day 2 intervals + Day 4 easy/tempo + optional Day 6 Zone 2)
+- **Mobility/flexibility** (built into every training day + optional long session)
+- **Ab/core strength** (Days 1/3/5 direct core work + bracing under skill work)
+
+## Are these workouts good for you? (quick self-audit)
+
+Use this checklist weekly. If you answer "yes" to most, the plan is working:
+- You completed at least **4-5 sessions** this week.
+- Main lifts/skills are stable or improving (more reps, cleaner reps, longer holds, or better control).
+- Running feels gradually easier at the same pace OR pace improves at similar effort.
+- No persistent joint pain (normal muscle soreness is okay).
+- Sleep/energy are stable enough to train.
+
+If 2+ are "no" for 2 weeks:
+- reduce total sets by ~20-30% for 1 week,
+- keep movement quality high,
+- keep protein high and avoid aggressive calorie cuts,
+- then rebuild volume.
