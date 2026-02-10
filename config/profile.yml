@@ -1,0 +1,31 @@
+
+# Edit this file first.
+user:
+  name: "Nathan"
+  age_years: 24
+  height_in: 67   # 5'7"
+  weight_lb_range: [155, 159]
+
+goals:
+  primary: "recomp"      # options: cut | recomp | maintenance | lean_bulk
+  secondary: ["stamina", "mobility", "calisthenics_skills"]
+  notes: "Improve stamina, keep it clean, avoid gaining too much fat."
+
+training:
+  days_per_week_target: 5     # 4-6 is fine; start at 5 for consistency
+  session_minutes_target: 55
+  running_days_per_week: 2
+  mobility_days_per_week: 5
+
+equipment:
+  gym_access: false
+  pullup_bar: true
+  rings: false
+  resistance_bands: false
+  weighted_vest: false
+  dumbbells: false
+  notes: "Door pull-up bar available."
+
+constraints:
+  injuries_or_pain: "None reported. Note any wrist/shoulder/knee pain here."
+  schedule_notes: "Adjust days as needed; keep at least 1 full rest day."
