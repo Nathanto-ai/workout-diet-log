@@ -165,7 +165,6 @@ Yes, this plan should increase ab strength if you progress these consistently:
 Progression target: add 5-10 sec to holds or 1-2 reps weekly when form stays solid.
 
 ## Explicit skill tracks included
-
 This plan directly progresses:
 - **Squat** (Day 3 + squat mobility)
 - **Push-up** (Day 1 + Day 5)
@@ -174,7 +173,7 @@ This plan directly progresses:
 - **Handstand** (Day 5 wall handstand + pike progression)
 - **Running** (Day 2 intervals + Day 4 easy/tempo + optional Day 6 Zone 2)
 - **Mobility/flexibility** (built into every training day + optional long session)
-- **Ab/core strength** (Days 1/3/5 direct core work + bracing under skill work)
+ - **Ab/core strength** (Days 1/3/5 direct core work + bracing under skill work)
 
 ## Are these workouts good for you? (quick self-audit)
 
