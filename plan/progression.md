@@ -1,66 +1,103 @@
+# Progression (v1)
 
-# Progression (v0)
+## Core method
 
-## How to pick the right variation
+- Train most sets at **RIR 1-2**.
+- Progress only when form is stable.
+- Prioritize: consistency > intensity spikes.
 
-Your working sets should be:
-- hard, but controlled
-- stop with **1–2 reps in reserve (RIR)**
+## Baseline week metrics to track
 
-If you fail early:
-- switch to an easier variation immediately
-- keep total sets the same
+Capture these in Week 1:
+- Squat best set (strict reps at chosen variation)
+- Pull-up best set (strict reps)
+- Push-up best set (strict reps)
+- Dip best set (or support hold duration)
+- Handstand best hold duration (wall)
+- Front plank max hold with good position
+- Interval run pace/effort notes
+- Easy run conversational pace duration
+
+Use those as your personal baseline and compare every 2 weeks.
+
+---
 
 ## Upper-body progressions
 
-**Pull-ups**
-1. Dead hang + scap pulls
-2. Negative pull-ups (3–5 sec down)
-3. Band-assisted pull-ups
+### Pulling
+1. Scapular pulls + passive hangs
+2. Band-assisted pull-ups
+3. Eccentric pull-ups (3-5 sec down)
 4. Full pull-ups
-5. Weighted pull-ups (vest/backpack)
+5. Ring chin-up / weighted pull-up (vest/backpack)
 
-**Push-ups**
-1. Wall push-ups
-2. Incline push-ups
-3. Knee push-ups
-4. Standard push-ups
-5. Decline / diamond / weighted
+### Pushing
+1. Incline push-up
+2. Standard push-up
+3. Ring push-up
+4. Decline push-up / pseudo-planche lean push-up
+5. Weighted push-up (vest/backpack) or ring dip progression
 
-**Dips**
-1. Bench dips (bent knees)
-2. Bench dips (straight legs)
-3. Parallel bar dips (band-assisted if needed)
-4. Full dips
-5. Weighted dips
+### Vertical push skill
+1. Pike hold
+2. Pike push-up
+3. Feet-elevated pike push-up
+4. Wall handstand hold
+5. Wall handstand push-up eccentric progression
+
+### Dip progression
+1. Ring support hold / bench support hold
+2. Feet-assisted ring dip eccentric
+3. Banded or controlled full dip
+4. Full dip (strict ROM)
+5. Weighted dip (vest/backpack)
+
+---
 
 ## Lower-body progressions
 
-**Split squat / Bulgarian split squat**
-1. Split squat (rear foot on floor)
-2. Bulgarian (rear foot elevated)
-3. Slower eccentric (3 sec down)
-4. Pause at bottom (1–2 sec)
-5. Loaded (dumbbells/vest/backpack)
+### Squat progression (primary lower skill)
+1. Counterbalance squat to comfortable depth
+2. Full bodyweight squat (controlled depth)
+3. Tempo squat (3 sec down)
+4. Pause squat (1-2 sec in bottom)
+5. Loaded squat (weighted vest/backpack/front-loaded)
 
-## Core hold progressions
+### Single-leg accessory progression
+1. Split squat
+2. Bulgarian split squat
+3. Add pause (1-2 sec at bottom)
+4. Add slower eccentric (3 sec down)
+5. Add load (backpack/bands/rings support as needed)
 
-**Hollow hold**
-- tuck → one-leg → full hollow
+For posterior chain, progress glute bridges from bilateral to single-leg to loaded.
 
-**L-sit**
-- seated leg lifts → tuck hold → one-leg out → full L
+---
 
 ## Running progression
 
-Weeks 1–2:
-- Intervals: 1:1 work:rest × 8
-- Tempo: 15–20 min or easy run
+### Intervals
+- Start: 1:1 work:easy × 8
+- Build to ×10
+- Then increase hard segment to 75-90 sec while keeping total stress manageable
 
-Weeks 3–4:
-- Intervals: add 1–2 rounds (to 9–10) OR increase hard segment to 75–90 sec
-- Tempo: +5 min (up to 25)
+### Easy/tempo
+- Easy run: add 5 min every 1-2 weeks up to 45 min
+- Tempo run: start 15-20 min, build toward 25-30 min as tolerated
 
-If shin/knee pain:
-- replace one run with brisk incline walk or bike
-- add calf raises + tibialis raises 2–3×/wk
+If sleep is poor or legs feel beat up, replace one run with brisk walk + mobility.
+
+---
+
+## Deload / fatigue management
+
+Take a deload week when:
+- performance drops >2 sessions in a row,
+- motivation is very low,
+- sleep is poor for most of the week,
+- joints feel irritated.
+
+Deload protocol:
+- keep same movements,
+- reduce sets by 30-40%,
+- keep reps submaximal.
