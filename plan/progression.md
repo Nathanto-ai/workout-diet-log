@@ -98,6 +98,7 @@ For posterior chain, progress glute bridges from bilateral to single-leg to load
 Rule: progress by +5-10 sec on holds or +1-2 reps when form stays strict.
 
 ---
+ 
 
 ## Running progression
 

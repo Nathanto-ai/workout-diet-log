@@ -5,10 +5,10 @@
 You want fat loss + muscle gain + performance support. Start with a **small deficit / near-maintenance** setup.
 
 - **Calories:** 2,250-2,350 kcal/day
-- **Protein:** 160-185 g/day
-- **Protein (evidence context):** ~1.6-2.2 g/kg/day is a strong range for performance/recomp
-- **Fat:** 60-75 g/day
-- **Carbs:** remainder (typically 210-290 g/day)
+ - **Protein:** 165-185 g/day
+ - **Protein (evidence context):** ~1.6-2.2 g/kg/day is a strong range for performance/recomp
+ - **Fat:** 60-75 g/day
+ - **Carbs:** remainder (typically 210-290 g/day)
 
 ### How these calories and macros were calculated
 
@@ -82,7 +82,6 @@ Build dinner with:
 - Sodium: do not under-salt, especially on running days
 
 ---
-
 
 ## Execution checklist (simple)
 
