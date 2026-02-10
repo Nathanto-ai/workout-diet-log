@@ -73,7 +73,6 @@ Use those as your personal baseline and compare every 2 weeks.
 For posterior chain, progress glute bridges from bilateral to single-leg to loaded.
 
 ---
-<<<<<<< HEAD
 
 
 ## Core progression (ab strength)
