@@ -105,6 +105,13 @@ When you message updates, include:
 - meals/snacks with rough quantities
 - optional: energy (1-5), hunger (1-5)
 
+For better progress tracking across all goals, also include when available:
+- run details (distance/pace/interval splits + RPE)
+- top set or best set for key calisthenics lifts/holds
+- mobility quality note (tightest area or best range-of-motion win)
+- recovery basics (steps, sleep quality, soreness/pain)
+- hydration/fiber checkpoints (water liters + rough fiber)
+
 I will translate your updates into:
 - daily log entries in `/logs/`
 - macro estimates and day-end summary
