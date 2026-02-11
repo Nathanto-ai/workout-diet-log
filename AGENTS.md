@@ -30,15 +30,20 @@ These follow common "agent instruction" patterns used in public AI coding workfl
    - If calories/macros are estimated, label them as estimates.
    - Keep units explicit (`lb`, `oz`, `kcal`, `g`, `L`).
 
-4. **Consistency over cleverness.**
+4. **Diet info should be evidence-checked, not guessed.**
+   - Prefer user-provided food labels first.
+   - If label data is missing and the user asks for precision, use a reputable source (e.g., USDA FoodData Central or manufacturer nutrition page) and cite it in your response.
+   - If no reliable source is available quickly, provide a range and clearly state uncertainty.
+
+5. **Consistency over cleverness.**
    - Reuse existing headings/structure from `logs/_template_daily_log.md`.
    - Keep naming and section order stable.
 
-5. **Validation before commit.**
+6. **Validation before commit.**
    - Run at least: `git status --short` and preview changed files with `nl -ba`.
    - If a script is touched, run the script or a relevant check.
 
-6. **Commit discipline.**
+7. **Commit discipline.**
    - One coherent commit per user request.
    - Commit message format: imperative and specific, e.g. `Log 2026-02-11 check-in metrics`.
 
