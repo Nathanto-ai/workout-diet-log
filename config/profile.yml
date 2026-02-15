@@ -4,6 +4,7 @@ user:
   age_years: 26
   height_in: 67   # 5'7"
   weight_lb_range: [163, 167]
+  timezone: "America/Los_Angeles"  # PST/PDT; use this as source of truth for day/date checks
 
 goals:
   primary: "recomp"      # options: cut | recomp | maintenance | lean_bulk
