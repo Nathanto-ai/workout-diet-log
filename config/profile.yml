@@ -1,23 +1,24 @@
-# Edit this file first.
+# Current profile and plan defaults.
 user:
   name: "Nathan"
   age_years: 26
   height_in: 67   # 5'7"
-  weight_lb_range: [163, 167]
-  timezone: "America/Los_Angeles"  # PST/PDT; use this as source of truth for day/date checks
+  weight_lb_range: [173, 177]   # currently ~175 lb; update from weekly trend
+  goal_weight_lb: 151
+  timezone: "America/Los_Angeles"  # use as source of truth for day/date checks
 
 goals:
-  primary: "recomp"      # options: cut | recomp | maintenance | lean_bulk
-  secondary: ["fat_loss", "muscle_gain", "running_stamina", "calisthenics_skills", "mobility_flexibility"]
-  notes: "No hard deadline. Build athletic base while leaning out slowly and improving skills."
+  primary: "cut"      # options: cut | recomp | maintenance | lean_bulk
+  secondary: ["muscle_retention_or_regain", "running_stamina", "calisthenics_skills", "mobility_flexibility"]
+  notes: "Cut gradually toward ~151 lb while rebuilding an athletic base, retaining/regaining muscle, improving running, and progressing calisthenics/mobility skills."
 
 training:
-  days_per_week_target: 5     # baseline target; flex to 6 on good recovery weeks
+  days_per_week_target: 6     # full plan: 3 strength/skill + 3 Just Run; ramp from 4-5 while restarting if needed
   session_minutes_target: 60
-  running_days_per_week: 2
-  mobility_days_per_week: 5
+  running_days_per_week: 3    # Just Run: Zero to 5K
+  mobility_days_per_week: 6
   preferred_time: "morning"
-  sleep_status: "poor_recently"
+  sleep_status: null          # update from current check-ins; do not carry stale sleep status forward
 
 equipment:
   gym_access: false
@@ -29,13 +30,16 @@ equipment:
   yoga_blocks: true
   yoga_mat: true
   foam_roller: true
-  notes: "Home training + outdoor running. Weighted vest available for progression."
+  notes: "Home training + outdoor running. Weighted vest/backpack available for progression."
 
 constraints:
   injuries_or_pain: "None reported."
-  schedule_notes: "Default 5-day base with optional 6th recovery/Zone-2 day. Keep at least 1 full rest day; reduce volume 20-30% after poor sleep streaks."
+  schedule_notes: "Full plan alternates 3 strength/skill days with 3 Just Run sessions and keeps 1 full rest day. During the restart phase, 4-5 completed sessions is acceptable; slide missed sessions forward rather than doubling up. Reduce volume 20-30% after poor sleep or unusual soreness."
 
 nutrition:
   tracking_style: "track calories + macros"
-  preferred_structure: "2 Huel shakes (2% milk) + dinner"
+  calorie_target_kcal: 1900
+  calorie_flexible_range_kcal: [1800, 2000]
+  protein_target_g_range: [160, 180]
+  preferred_structure: "2 Huel Black shakes with Kirkland 2% ultra-filtered milk + dinner"
   coaching_mode: "log in chat after each meal/workout; ask for daily plan each morning"

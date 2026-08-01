@@ -1,118 +1,127 @@
-# Diet Plan (v1) — recomp with macro tracking
+# Diet Plan (v2) — gradual cut with macro tracking
 
 ## Primary target
 
-You want fat loss + muscle gain + performance support. Start with a **small deficit / near-maintenance** setup.
+Current starting point: roughly **175 lb**, with a long-term goal near **151 lb**.
 
-- **Calories:** 2,250-2,350 kcal/day
- - **Protein:** 165-185 g/day
- - **Protein (evidence context):** ~1.6-2.2 g/kg/day is a strong range for performance/recomp
- - **Fat:** 60-75 g/day
- - **Carbs:** remainder (typically 210-290 g/day)
+The goal is a **gradual cut** that supports strength, calisthenics progression, and Just Run training while retaining/regaining as much muscle as practical.
 
-### How these calories and macros were calculated
+### Starting daily targets
 
-Using your profile bodyweight range (163-167 lb = ~74-76 kg), recomp goal, and 5-6 training days/week:
+- **Calories:** **1,900 kcal/day** starting target
+- **Flexible range:** **1,800-2,000 kcal/day**
+- **Protein:** **160-180 g/day**
+- **Fat:** roughly **55-70 g/day** as a practical range
+- **Carbs:** remainder, with more emphasis around run/strength sessions when useful
+- **Fiber:** **25-35 g/day**
+- **Water:** roughly **2.5-3.5 L/day**, adjusted for heat/sweat/activity
 
-1. **Calories**
-   - Practical maintenance estimate from your activity level: ~2,350-2,550 kcal/day.
-   - Recomp setup uses a small deficit on average: ~150-250 kcal below maintenance.
-   - That gives a starting target of **2,250-2,350 kcal/day**.
+These are starting targets, not a claim that maintenance calories are known exactly. Use real weight trends and training quality to calibrate them.
 
-2. **Protein**
-   - Evidence-based range for recomp/performance: ~1.6-2.2 g/kg.
-   - 74-76 kg x 1.6-2.2 = ~118-167 g/day.
-   - We set a performance-forward target of **160-185 g/day** to better support strength and skill progress while dieting slowly.
+## Adjustment rules
 
-3. **Fat**
-   - Set around ~0.8-1.0 g/kg as a practical floor for hormones/satiety.
-   - 74-76 kg x 0.8-1.0 = ~59-76 g/day.
-   - Target used: **60-75 g/day**.
+Use morning weigh-ins when practical and judge progress from a **7-day average**, not a single day.
 
-4. **Carbs (remainder)**
-   - Carbs are set with remaining calories after protein + fat.
-   - At 2,250 kcal with 170P/65F: carbs ~= (2250 - (170x4 + 65x9)) / 4 ~= 246 g.
-   - At 2,350 kcal with 185P/75F: carbs ~= (2350 - (185x4 + 75x9)) / 4 ~= 234 g.
-   - Practical range remains **~210-290 g/day** depending on run-day fueling and appetite.
+Do not react aggressively to the first 1-2 weeks because water/glycogen changes can temporarily exaggerate scale loss.
 
-### Adjustment rules (every 2 weeks)
-- If weekly average weight drops faster than ~0.75 lb/week and workouts feel weaker: **+100 kcal/day**
-- If weight is flat for 2 weeks and waist is not improving: **-100 kcal/day**
-- If performance is improving and waist/weight trend are good: **hold steady**
+After roughly **2-3 consistent weeks**:
+
+- If average loss is about **0.5-1.0 lb/week** and training/recovery are acceptable: **hold 1,900 kcal**.
+- If loss is consistently **below ~0.4-0.5 lb/week for 2 consecutive weeks** and adherence is good: reduce by about **100 kcal/day**.
+- If loss remains **above ~1.25 lb/week after the initial water-weight period**, or strength/recovery/hunger deteriorate: add about **100 kcal/day**.
+- Change only **one variable at a time**.
+
+Do not automatically "eat back" estimated exercise calories from watches/apps.
 
 ---
 
-## Preferred meal structure (your input)
+## Protein target
 
-Default day:
-1. **Huel shake + 2% milk**
-2. **Huel shake + 2% milk**
+Aim for **160-180 g/day**. An absolute floor of about **150 g/day** is a useful fallback on imperfect days.
+
+Protein is intentionally high during the cut to support muscle retention/regain while strength training.
+
+There is no need to force protein far above the target if calories, fiber, fruits/vegetables, or carbohydrates are getting crowded out.
+
+---
+
+## Preferred meal structure
+
+Default high-compliance day:
+
+1. **Huel Black shake + Kirkland 2% ultra-filtered milk**
+2. **Huel Black shake + Kirkland 2% ultra-filtered milk**
 3. **High-protein dinner**
+4. Fruit / small carb or protein snack as needed to land near the daily target
 
-This is valid as long as daily macros and fiber are covered.
+Use the **actual Huel and milk labels** when logging rather than relying on a permanent estimate in this file, since products/servings can change.
 
-### Example macro split
-- Shake 1: ~500-650 kcal, 35-50g protein
-- Shake 2: ~500-650 kcal, 35-50g protein
-- Dinner: ~900-1,200 kcal, 70-90g protein
-
-> Check your exact Huel serving + milk quantity in app labels and log precisely.
+Two milk-based shakes can use a large portion of the 1,900-kcal budget, so dinner should be portioned intentionally rather than treated as unlimited calories.
 
 ---
 
-## Dinner template (high compliance)
+## Dinner template
 
-Build dinner with:
-- **Protein:** 8-12 oz lean meat/fish OR tofu/tempeh equivalent
-- **Carb:** 1.5-3 cups cooked rice/potato/pasta depending on run day
-- **Vegetables:** at least 2 fists
-- **Fat:** 1-2 tbsp olive oil / avocado / nuts
+Build dinner around:
 
-### Run-day carb tweak
-- Interval/tempo days: add +25-60g carbs (fruit, rice, oats, bread)
-- Rest/recovery day: keep carbs slightly lower if appetite is low
+- **Protein:** about 8-12 oz meat/fish or an equivalent high-protein alternative
+- **Vegetables:** roughly 1-2+ servings
+- **Carbohydrate:** add rice, potatoes, pasta, bread, fruit, etc. based on remaining calories, hunger, and training needs
+- **Fat:** measure added oils/sauces when they meaningfully affect calories
 
----
+### Run/strength-day carb approach
 
-## Minimum nutrition floors
+Keep the same basic calorie target for simplicity. On harder or hungrier training days, it is fine to use the **upper end of the 1,800-2,000 range** and allocate more of the remaining calories to carbohydrates.
 
-- Protein: never below **150g/day**
-- Fiber: at least **25-35g/day**
-- Water: **2.5-3.5 L/day**
-- Sodium: do not under-salt, especially on running days
+Useful carb options around training include fruit, rice, oats, bread, potatoes, and similar foods.
 
 ---
 
-## Execution checklist (simple)
+## Minimum nutrition checkpoints
 
-Use this daily:
-- Hit **protein first** (150g absolute minimum; 165-185g target).
-- Keep calories in the **2,250-2,350** range most days.
-- On interval/tempo days, add carbs around training.
-- If sleep is poor, keep food quality high and avoid large under-eating.
+- Protein: **150 g absolute fallback; 160-180 g target**
+- Fiber: **25-35 g/day**
+- Include fruit and/or vegetables daily rather than relying exclusively on shakes/meat
+- Water: roughly **2.5-3.5 L/day**
+- Do not chronically under-salt food when sweating/running, unless medically directed otherwise
 
-Use this weekly:
-- Compare 7-day average bodyweight + waist trend + training quality.
-- Then apply only one adjustment from the rules above.
+---
+
+## Execution checklist
+
+Daily:
+- Stay near **1,900 kcal** rather than trying to make every day as low-calorie as possible.
+- Hit protein.
+- Get some fiber/produce.
+- Fuel training well enough to maintain performance.
+- Do not compensate for an imperfect meal by crash-cutting the rest of the day.
+
+Weekly:
+- Compare 7-day average bodyweight.
+- Note waist/clothing fit when useful.
+- Review strength/skill progress and Just Run recovery.
+- Adjust calories only after the trend is clear.
 
 ---
 
 ## Logging protocol in this repo/chat
 
-When you message updates, include:
+When you message updates, include when available:
 - time
 - workout completed (or rest)
-- meals/snacks with rough quantities
-- optional: energy (1-5), hunger (1-5)
+- meals/snacks with rough quantities or label values
+- bodyweight
+- energy/hunger (optional 1-5)
 
-For better progress tracking across all goals, also include when available:
-- run details (distance/pace/interval splits + RPE)
-- top set or best set for key calisthenics lifts/holds
-- mobility quality note (tightest area or best range-of-motion win)
-- recovery basics (steps, sleep quality, soreness/pain)
-- hydration/fiber checkpoints (water liters + rough fiber)
+For better progress tracking also include:
+- Just Run workout completed + distance/pace/RPE if available
+- reps/holds and current progression level for push-up, pull-up, dip, lower-body skill, handstand/L-sit, etc.
+- mobility note (e.g. knee-to-wall, deep squat comfort, 90/90, wall-slide quality)
+- sleep, soreness/pain, steps
+- hydration/fiber checkpoints
 
-I will translate your updates into:
+Chat updates can be translated into:
 - daily log entries in `/logs/`
-- macro estimates and day-end summary
-- next-day adjustments if needed
+- calorie/protein estimates with uncertainty labeled
+- weekly trend summaries
+- next-session adjustments
