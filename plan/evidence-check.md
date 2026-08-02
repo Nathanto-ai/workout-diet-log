@@ -1,167 +1,188 @@
 # Evidence Check (quick external validation)
 
-_Last checked: 2026-08-01_
+_Last checked: 2026-08-02_
 
-This note cross-checks the current plan against recent guidance and major reviews.
+This note cross-checks the current **v3 hybrid strength + calisthenics + running + mobility plan** against recent guidance and major reviews.
 
 ## Sources reviewed
 
 - ACSM 2026 resistance-training position stand / summary:
   - https://acsm.org/resistance-training-guidelines-update-2026/
-  - Key practical points: train all major muscle groups at least twice weekly; bodyweight/bands/home-based resistance training are effective; roughly ~10 weekly sets per muscle group is a useful hypertrophy-oriented target; training to momentary failure and complex periodization are not required for most healthy adults.
+  - Practical takeaways used here: train major muscle groups regularly; heavier loading is especially useful for strength; higher weekly set volume supports hypertrophy; bodyweight, bands, and home-based resistance training are legitimate resistance-training modes; training to momentary failure and complicated periodization are not required for most healthy adults.
 - Just Run: Zero to 5K official app listing:
   - https://play.google.com/store/apps/details?id=com.jupli.run
-  - Zero to 5K is a 9-week program with three ~30-minute workouts per week.
+  - Zero to 5K uses three beginner running sessions per week.
 - Static stretching dose meta-analysis (Sports Medicine, 2025):
   - https://pubmed.ncbi.nlm.nih.gov/39614059/
-  - Regular static stretching improves flexibility; extreme stretching intensity is not required for benefit.
+  - Regular static stretching improves flexibility; very high stretching intensity/volume is not required for benefit.
 - Resistance training and flexibility systematic review/meta-analysis (J Strength Cond Res, 2025):
   - https://pubmed.ncbi.nlm.nih.gov/39787531/
-  - Resistance training can also improve joint flexibility, although the literature has heterogeneity and risk-of-bias limitations.
+  - Resistance training can also improve joint flexibility when performed through useful ranges of motion, although dedicated mobility work is still retained because flexibility is an explicit goal.
 - Updated concurrent aerobic + strength training meta-analysis (Sports Medicine, 2022):
   - https://pubmed.ncbi.nlm.nih.gov/34757594/
-  - Aerobic and resistance training are generally compatible for muscle size and function when programmed reasonably.
+  - Concurrent aerobic and resistance training generally do not meaningfully compromise maximal strength or whole-muscle hypertrophy when programmed reasonably; explosive-strength adaptations can be more sensitive, especially when modalities are crowded into the same session.
 - Concurrent training muscle-fiber meta-analysis (Sports Medicine, 2022):
   - https://pubmed.ncbi.nlm.nih.gov/35476184/
-  - Very high running/endurance volume can create some interference at the muscle-fiber level, supporting the decision to use the beginner Just Run progression without adding extra hard running.
+  - Very high endurance volume can create some muscle-fiber-level interference, supporting the decision to keep running controlled by the beginner Just Run progression rather than adding extra hard mileage.
 - Protein supplementation + resistance-training meta-analysis (Morton et al., 2018):
   - https://pubmed.ncbi.nlm.nih.gov/28698222/
-  - Supports a high-protein approach alongside resistance training; the current cut target is intentionally protein-forward.
+  - Supports the plan's high-protein approach while resistance training, especially during a cut.
 
-## Audit of the current plan
+---
 
-### Resistance-training frequency and workload
+# Audit of v3
 
-**Pass.**
-
-The plan now has three resistance/skill days:
-- Day 1: upper strength
-- Day 3: lower strength + lower skill
-- Day 5: full-body calisthenics skill + strength
-
-Upper push/pull patterns receive meaningful work on Days 1 and 5. Lower-body patterns receive a primary session on Day 3 plus lower-body skill/hinge exposure on Day 5. This is much better aligned with the ACSM recommendation to expose all major muscle groups at least twice weekly.
-
-The plan generally lands around a moderate hypertrophy-supportive weekly set volume without requiring failure training.
-
-### Movement-pattern coverage
+## Overall structure
 
 **Pass.**
 
-Covered patterns:
-- horizontal push: push-ups/dips
-- vertical push: pike push-ups/handstand work
-- vertical pull: pull-ups
-- horizontal pull: ring rows/face pulls
-- bilateral squat: squat progression
-- unilateral squat/lunge: single-leg skill + reverse lunge/step-up
-- lateral lower-body movement: Cossack/lateral squat progression
-- hip extension: bridges/lunges/RDLs
-- hamstrings/hinge: sliders/RDLs/single-leg RDL
-- calves/ankles: calf raises + ankle mobility
+The week uses:
+- Day 1: upper hybrid strength + calisthenics fundamentals
+- Day 2: Just Run + mobility
+- Day 3: streamlined lower hybrid strength + unilateral skill
+- Day 4: Just Run + mobility
+- Day 5: protected pure-calisthenics skill/strength day
+- Day 6: Just Run + mobility
+- Day 7: full rest
 
-No major strength pattern is obviously missing for the current home-equipment setup.
+This preserves the useful alternating structure from v2 while adding easier external loading for muscle/strength and keeping calisthenics as a true performance goal rather than an accessory.
 
-### Calisthenics skill coverage
+## Muscle-building coverage
 
 **Pass.**
 
-Skills are now explicit progression tracks rather than assumed outcomes:
-- push-up
-- pull-up
+The plan has easily loadable resistance for:
+- chest: chest press plus push-up/dip work
+- back: loaded row plus pull-ups/ring rows
+- shoulders: pike pushing/handstand plus lateral raises
+- quads: squat or leg press plus unilateral bodyweight work
+- hamstrings/glutes: RDL, leg curl/sliders, single-leg RDL
+- calves: direct calf work
+
+Calisthenics provides additional meaningful resistance instead of being treated as separate from hypertrophy work.
+
+The plan deliberately does not force an exact weekly-set target for every muscle while the user is cutting, running three times weekly, and rebuilding consistency. Volume can be increased later if recovery and progress support it.
+
+## Strength development
+
+**Pass.**
+
+The hybrid days add simple load/repetition progression for chest press, row, squat/leg press, and RDL. Pull-ups, dips, and push-ups remain tracked strength movements and can eventually become weighted.
+
+Heavy/performance-sensitive lifts are no longer required to be supersetted. This should make strength progression easier without abandoning time-efficient supersets elsewhere.
+
+## Calisthenics skill development
+
+**Pass.**
+
+Day 5 is explicitly protected as a pure-calisthenics day, and foundational movements also appear on Day 1/3.
+
+Priority tracks:
+- push-up -> weighted/deep variations -> pseudo-planche preparation -> optional planche specialization later
+- pull-up -> stronger strict sets -> chest-to-bar -> weighted -> optional explosive/muscle-up or unilateral branches later
 - dip
+- pike/HSPU
 - handstand
 - L-sit
-- primary unilateral lower-body skill
-- secondary lateral/rotational lower-body skill
-- single-leg hinge/balance
+- pistol/shrimp-type unilateral squat
 
-Pistol, shrimp, Cossack, dragon, weighted pull-up, ring push-up, etc. are possible branches rather than mandatory endpoints.
+The plan intentionally avoids spending large amounts of training time on advanced planche or one-arm-pull-up work before foundational strength is built.
 
-### Lower-body calisthenics
+## Cossack/lateral work
 
-**Pass.**
+**Pass as a secondary movement quality, not a major skill target.**
 
-The lower plan no longer relies only on regular squats/lunges. It includes:
-- a primary single-leg squat progression on Day 3;
-- a secondary lateral lower-body progression on Day 5;
-- ankle mobility and deep-range practice that support advanced single-leg skills;
-- hamstring/hinge work so lower-body development is not quad-only.
+Cossacks remain because they efficiently combine lateral movement, adductor strength/flexibility, hip mobility, ankle mobility, and control in a deep position. The target is simply a comfortable, controlled full Cossack unless advanced rotational lower-body skills later become a deliberate goal.
 
-### Running integration
+This prevents the exercise from becoming unnecessary complexity while preserving a useful movement direction that running, squatting, RDLs, and pistols do not emphasize as much.
+
+## Lower-body workload
+
+**Pass; improved from the earlier hybrid draft.**
+
+Day 3 is intentionally streamlined:
+- 2 skill sets of unilateral squat practice
+- 3 sets squat OR leg press
+- 3 sets RDL
+- 2 sets leg curl
+- 2 sets calves
+- core + mobility
+
+Day 5 adds lighter unilateral/Cossack/single-leg-RDL skill/control exposure rather than another maximal leg session.
+
+This is more compatible with three weekly beginner runs than stacking squat, RDL, Bulgarian split squat, leg curl, pistol work, and other leg work all on Day 3.
+
+## Running integration
 
 **Pass with recovery monitoring.**
 
-Just Run Zero-to-5K prescribes three weekly sessions, so the repo no longer adds separate interval/tempo workouts on top. This reduces unnecessary overlap and lets one running progression control the workload.
+Just Run controls the three weekly running sessions. The plan does not layer extra hard intervals, tempo runs, or Zone-2 mileage on top while the user is rebuilding a running base.
 
-Three runs + three strength/skill days is a 6-day schedule, so one full rest day and the restart-ramp rules are important. If recovery or adherence suffers, sessions should slide forward rather than being doubled up.
+Strength and running sessions alternate rather than being crowded into the same session, which is a sensible concurrent-training setup.
 
-### Mobility/flexibility
+## Mobility and flexibility
 
 **Pass.**
 
-The plan deliberately covers:
+The plan preserves regular work for:
 - ankles
 - hip flexors
 - hip rotation
-- adductors/deep squat
+- adductors/deep squat positions
 - hamstrings
 - thoracic spine
 - shoulders/scapulae
 - wrists
 
-Mobility is paired into every training day, with a 2-5 minute minimum option for busy days. This supports consistency without making flexibility work all-or-nothing.
+Mobility remains distributed across the week, with a short minimum option for busy days. This protects flexibility as an explicit training goal rather than assuming lifting alone will cover it.
 
-### Core
+## Superset structure
 
-**Pass.**
+**Pass; improved rule.**
 
-The plan includes:
-- anti-extension: hollow hold/front plank
-- lateral stability: side plank
-- hip flexion/compression: knee raises/L-sit
-- whole-body bracing: handstands and unilateral lower-body skills
+Supersets remain the default for time efficiency, but are no longer mandatory. Heavy squats, RDLs, future heavy weighted pull-ups, or any movement whose performance is clearly impaired by pairing may use straight sets and longer rest.
 
-This is sufficient for the current goals without adding a separate high-volume ab day.
+This preserves the user's preferred training style without allowing the format to interfere with progression.
 
-### Superset structure
+## Home fallback / adherence
 
-**Pass.**
+**Strong pass.**
 
-All non-running work is organized into pairs. Main strength pairs use adequate rest after both movements, so supersets improve time efficiency without intentionally turning strength training into conditioning.
+Every gym-dependent movement has a home substitute:
+- chest press -> weighted/deep/ring push-up
+- loaded row -> ring row
+- lateral raise -> band lateral raise
+- squat/leg press -> weighted squat/Bulgarian split squat/harder unilateral work
+- RDL -> backpack/vest RDL
+- leg curl -> hamstring sliders
 
-Skill supersets pair different regions or low-fatigue mobility where possible so technical quality remains the priority.
+If gym timing or motivation makes a gym trip impractical, the user can perform the home version instead of skipping, doubling later, or abandoning the weekly structure.
 
-### Calisthenics-day workload
+This retains one of the strongest features of v2: low-friction home training.
 
-**Pass.**
+## Recovery during the cut
 
-Day 5 contains four 3-round working/skill pairs (handstand + lower skill, pike push-up + pull-up, dip + single-leg RDL, row + L-sit), plus warm-up and mobility pairs. It is therefore a real 50-60 minute training day with workload comparable to the other strength days, while avoiding the old plan's redundant 6-set frog-stand block and excessive upper-only volume.
+**Pass with an important monitoring requirement.**
 
-### Recovery and adherence
+The profile currently starts around 1,900 kcal/day with a flexible 1,800-2,000 range and 160-180 g protein/day. The training plan contains enough work to support muscle/strength retention and regain, but six active days while dieting can still exceed recovery capacity if weight loss is too aggressive.
 
-**Pass, with a deliberate ramp-in.**
+If several markers deteriorate together for multiple weeks -- strength, running performance, sleep, soreness, hunger, adherence -- review calorie deficit and total hard-set volume before adding more training.
 
-The full plan is 6 training days because Just Run itself is 3 days/week. During the return phase, 4-5 completed sessions is acceptable. The plan explicitly discourages doubling up missed sessions and allows volume reduction after poor sleep/soreness.
+---
 
-## Nutrition alignment
+# Final verdict
 
-The profile and diet plan now reflect a **cut** rather than stale recomp settings:
-- current weight roughly 175 lb;
-- goal around 151 lb;
-- starting calorie target ~1,900 kcal/day with a flexible 1,800-2,000 range;
-- protein target 160-180 g/day;
-- adjust from 7-day weight trends and training quality rather than assuming maintenance calories are known exactly.
+The v3 plan is **well aligned with the stated multi-goal objective**:
 
-## Final verdict
+- gradual fat loss
+- muscle retention/regain and future muscle growth
+- general strength development
+- strong calisthenics fundamentals with clear advanced-skill pathways later
+- beginner 5K development
+- mobility/flexibility maintenance or improvement
+- efficient superset-based sessions without forcing supersets on heavy lifts
+- one protected pure-calisthenics day
+- complete home fallbacks when the gym is inconvenient
+- one full rest day and explicit recovery rules
 
-The v2 plan is **well balanced for the stated goals**:
-- fat loss while retaining/regaining muscle;
-- full-body strength;
-- explicit upper- and lower-body calisthenics progression;
-- beginner 5K running development;
-- frequent mobility/flexibility;
-- core and balance work;
-- realistic home equipment;
-- clear recovery and progression rules.
-
-The main risk is not missing exercise categories; it is **doing too much too soon after a lapse**. The restart-ramp and no-catch-up rules are therefore part of the plan, not optional fine print.
+The main remaining unknown is individual recovery, not exercise-category coverage. Run the plan consistently, log the key progression markers, and let several weeks of real performance data determine whether volume or calories need adjustment.
