@@ -9,11 +9,11 @@ user:
 
 goals:
   primary: "cut"      # options: cut | recomp | maintenance | lean_bulk
-  secondary: ["muscle_retention_or_regain", "running_stamina", "calisthenics_skills", "mobility_flexibility"]
-  notes: "Cut gradually toward ~151 lb while rebuilding an athletic base, retaining/regaining muscle, improving running, and progressing calisthenics/mobility skills."
+  secondary: ["muscle_retention_or_regain", "strength", "calisthenics_skills", "running_stamina", "mobility_flexibility"]
+  notes: "Cut gradually toward ~151 lb while building/retaining muscle and strength, developing a strong calisthenics foundation for advanced skills later, improving running stamina, and maintaining or improving mobility/flexibility."
 
 training:
-  days_per_week_target: 6     # full plan: 3 strength/skill + 3 Just Run; ramp from 4-5 while restarting if needed
+  days_per_week_target: 6     # full plan: 2 hybrid strength + 1 pure calisthenics + 3 Just Run; ramp from 4-5 while restarting if needed
   session_minutes_target: 60
   running_days_per_week: 3    # Just Run: Zero to 5K
   mobility_days_per_week: 6
@@ -21,20 +21,20 @@ training:
   sleep_status: null          # update from current check-ins; do not carry stale sleep status forward
 
 equipment:
-  gym_access: false
+  gym_access: true
   pullup_bar: true
   rings: true
   resistance_bands: true
   weighted_vest: true
-  dumbbells: false
+  dumbbells: false            # no home dumbbells required; gym loading is optional/convenient
   yoga_blocks: true
   yoga_mat: true
   foam_roller: true
-  notes: "Home training + outdoor running. Weighted vest/backpack available for progression."
+  notes: "Hybrid plan uses gym loading when convenient, but every gym-dependent movement has a home/calisthenics fallback using the pull-up bar, rings, bands, vest/backpack, sliders/bodyweight, and outdoor running."
 
 constraints:
   injuries_or_pain: "None reported."
-  schedule_notes: "Full plan alternates 3 strength/skill days with 3 Just Run sessions and keeps 1 full rest day. During the restart phase, 4-5 completed sessions is acceptable; slide missed sessions forward rather than doubling up. Reduce volume 20-30% after poor sleep or unusual soreness."
+  schedule_notes: "Full plan alternates 3 resistance/skill days with 3 Just Run sessions and keeps 1 full rest day. Day 5 is protected as pure calisthenics. If gym access/timing is inconvenient, use the listed home fallback instead of skipping or doubling up. During the restart phase, 4-5 completed sessions is acceptable. Reduce volume 20-30% after poor sleep or unusual soreness."
 
 nutrition:
   tracking_style: "track calories + macros"
