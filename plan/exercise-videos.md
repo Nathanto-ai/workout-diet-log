@@ -2,14 +2,14 @@
 
 Verified reference videos for movements used in the workout plan. Prefer these links when walking through a workout so the demonstrated movement matches the programmed exercise.
 
-**Verification standard:** confirm that the demo matches the programmed movement and favor established coaching, strength-training, or rehabilitation sources. These videos are references for execution; `plan/workout-plan.md` remains the source of truth for sets, reps, RIR, progression, and substitutions.
+**Verification standard:** confirm that the demo matches the programmed movement and favor established coaching, strength-training, or rehabilitation sources. Save **direct video URLs only** when possible (for example, `youtube.com/watch?...`), not article, archive, forum, or video-index pages. These videos are references for execution; `plan/workout-plan.md` remains the source of truth for sets, reps, RIR, progression, and substitutions.
 
 ## Day 1 — Upper Hybrid Strength + Calisthenics Fundamentals
 
 ### Scapular pull-up
 - **Programmed:** 6-10 reps
 - **Demo:** FitnessFAQs — The Best Exercise to Increase Pullups
-- https://fitnessfaqs.com/video-gallery/the-best-exercise-to-increase-pullups/
+- https://www.youtube.com/watch?v=KG8JZJ22NQI
 - **Cue:** Keep the elbows straight and move from the shoulder blades with slow, controlled depression/retraction. Do not turn it into a partial pull-up.
 
 ### Scapular push-up
