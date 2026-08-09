@@ -2,6 +2,8 @@
 
 Verified reference videos for movements used in the workout plan. Prefer these links when walking through a workout so the demonstrated movement matches the programmed exercise.
 
+**Canonical source:** this file is the single source of truth for verified workout-demo videos in this repository. Do **not** create a parallel video library. If a planned movement needs a new demo, verify it and add it here.
+
 **Verification standard:** confirm that the demo matches the programmed movement and favor established coaching, strength-training, or rehabilitation sources. Save **direct video URLs only** when possible (for example, `youtube.com/watch?...`), not article, archive, forum, or video-index pages. These videos are references for execution; `plan/workout-plan.md` remains the source of truth for sets, reps, RIR, progression, and substitutions.
 
 ## Day 1 — Upper Hybrid Strength + Calisthenics Fundamentals
@@ -96,7 +98,88 @@ Verified reference videos for movements used in the workout plan. Prefer these l
 - https://www.youtube.com/watch?v=QRmjqjGlIGI
 - **Cue:** Brace the trunk and draw the largest slow, pain-free shoulder circle you can without rib flare or torso rotation.
 
-## Day 6 mobility
+## Day 2 — Just Run + Lower Mobility
+
+### Knee-to-wall ankle mobility
+- **Programmed:** 10/side
+- **Demo:** Rehab 2 Perform — Knee-to-Wall Ankle Mobility
+- https://www.youtube.com/watch?v=cPN3-FR-clk
+- **Cue:** Keep the heel down and let the knee travel forward over the toes without the arch collapsing or the foot turning out.
+
+Couch stretch, calf stretch, and 90/90 hip-switch references are listed below under Day 6 and reused here.
+
+## Day 3 — Lower Hybrid Strength + Unilateral Skill
+
+### Romanian deadlift (RDL)
+- **Programmed:** 6-10 reps
+- **Demo:** Squat University — Romanian Deadlift Tutorial
+- https://www.youtube.com/watch?v=5bJEigM5iVg
+- **Cue:** Hinge from the hips with a controlled eccentric, keep the load close, and stop at the deepest range you can own without losing trunk position.
+
+### Deep squat hold
+- **Programmed:** 30-60 sec
+- **Demo:** Streamline Physical Therapy — Deep Squat Hold
+- https://www.youtube.com/watch?v=6cpx5JUxGCY
+- **Cue:** Use support if needed and stay in a comfortable deep position rather than forcing depth.
+
+### Frog stretch
+- **Programmed:** 30-60 sec
+- **Demo:** ZOAR Fitness — Frog Stretch
+- https://www.youtube.com/watch?v=6RzJrP5f4MM
+- **Cue:** Ease into the adductor stretch gradually and avoid forcing the knees wider than you can control.
+
+## Day 4 — Just Run + Full-Body Mobility
+
+### World's greatest stretch
+- **Programmed:** 5/side
+- **Demo:** E3 Rehab Exercise Library — World's Greatest Stretch
+- https://www.youtube.com/watch?v=Utq8EFO3NzY
+- **Cue:** Move smoothly through the lunge and thoracic rotation rather than chasing maximum range.
+
+Thoracic rotation, couch stretch, and 90/90 hip-switch references are reused from their canonical entries elsewhere in this file.
+
+## Day 5 — Pure Calisthenics Skill + Strength
+
+### Pike push-up
+- **Programmed:** 6-12 reps
+- **Demo:** Hinge Health — Pike Push-Up
+- https://www.youtube.com/watch?v=2tvz0xeUBoo
+- **Cue:** Keep the hips high, lower the head forward between the hands, and choose a progression that preserves controlled reps.
+
+### Handstand progression
+- **Programmed:** 20-40 sec or 3-5 quality attempts
+- **Demo:** FitnessFAQs — Beginner Handstand Progression
+- https://www.youtube.com/watch?v=XtQC5F2dY1s
+- **Cue:** Prioritize line, shoulder elevation, and controlled exits over long ugly holds.
+
+### Cossack squat
+- **Programmed:** 4-6 controlled reps/side
+- **Demo:** Made 2 Move Physical Therapy — Cossack Squat
+- https://www.youtube.com/watch?v=8gwcbD_2WIo
+- **Cue:** Use only the depth you can control; support is fine while mobility and lateral strength develop.
+
+### Ring row / inverted-row pattern
+- **Programmed:** 8-15 reps
+- **Demo:** Evolution Physical Therapy & Fitness — Inverted Row
+- https://www.youtube.com/watch?v=2ax8bQRcLqk
+- **Cue:** Keep a rigid body line and row the torso toward the handles/rings without shrugging or losing trunk position.
+- **Note:** The demo uses the inverted-row pattern; apply the same mechanics to the rings.
+
+### L-sit progression
+- **Programmed:** 10-25 sec
+- **Demo:** FitnessFAQs — L-Sit Progressions
+- https://www.youtube.com/watch?v=cu0fHp8HCDo
+- **Cue:** Use the tuck/one-leg/full variation that lets you keep the shoulders depressed and the trunk controlled.
+
+### Single-leg RDL
+- **Programmed:** 8-12 controlled reps/side
+- **Demo:** Squat University — Single-Leg RDL Tutorial
+- https://www.youtube.com/watch?v=Zfr6wizR8rs
+- **Cue:** Reach the free leg back while keeping the pelvis controlled; use support if balance limits the hinge.
+
+Other Day 5 movements reuse the Day 1 references for scapular push-ups, pull-ups, dips, push-ups, shoulder CARs, and wall slides, plus the Day 6 reference for 90/90 hip switches.
+
+## Day 6 — Just Run + Mobility
 
 ### Couch stretch
 - **Programmed:** 45 sec/side
@@ -137,5 +220,16 @@ These same references also apply when the movements appear on other days:
 - **Calf stretch:** Days 2 and 6
 - **90/90 hip switches:** Days 2, 4, 5, and 6
 - **Thoracic rotations:** Days 1, 4, and 6
+- **Knee-to-wall ankle mobility:** Days 2 and 3
 
-Last verified: 2026-08-07.
+## Still-unverified gaps
+
+Do not invent URLs for these. Verify a reputable direct demo first, then add it here if useful:
+- wrist circles/rocks and wrist flexor/extensor stretch
+- hip circles/CARs
+- primary single-leg squat progression (touchdown/skater/assisted pistol or shrimp, depending on current level)
+- hamstring floss
+- hanging knee raise / lying leg raise
+- leg curl and calf raise machine setup if a machine-specific demo is needed
+
+Last consolidated: 2026-08-08.
