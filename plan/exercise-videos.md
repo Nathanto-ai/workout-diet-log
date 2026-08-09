@@ -110,11 +110,68 @@ Couch stretch, calf stretch, and 90/90 hip-switch references are listed below un
 
 ## Day 3 — Lower Hybrid Strength + Unilateral Skill
 
+### Air squat / squat mechanics
+- **Programmed:** Air squat 10 reps in the warm-up; squat may also be used as the primary knee-dominant lift.
+- **Demo:** Squat University — Perfect Your Squat: Step-By-Step Form Guide
+- https://www.youtube.com/watch?v=8Kls95w2jFA
+- **Cue:** Maintain a stable tripod foot, use a comfortable stance/toe angle, let the knees track with the toes, and keep the trunk controlled through the depth you own.
+- **Note:** This tutorial explicitly applies its technique principles to air squats, back squats, and front squats.
+
+### Glute bridge
+- **Programmed:** 12 reps
+- **Demo:** Squat University — How To Properly Perform The Glute Bridge
+- https://www.youtube.com/watch?v=tl6xvm4-Qk0
+- **Cue:** Brace, squeeze the glutes, and extend through the hips without overextending the low back.
+
+### Hip CARs
+- **Programmed:** 6-8/side
+- **Demo:** Restore Physical Therapy — Hip CARs (Controlled Articular Rotations)
+- https://www.youtube.com/watch?v=I4lo1WqIMX8
+- **Cue:** Move slowly through the largest pain-free hip circle you can while minimizing pelvis and lumbar-spine motion.
+
+### Ankle rocks / knee-to-wall ankle mobility
+- **Programmed:** 10/side in Warm-up B; 8-10/side in Skill Superset A
+- **Demo:** Rehab 2 Perform — Knee-to-Wall Ankle Mobility
+- https://www.youtube.com/watch?v=cPN3-FR-clk
+- **Cue:** Keep the heel down and the arch controlled while the knee travels forward over the toes.
+
+### Primary single-leg squat progression — touchdown / lateral step-down
+- **Programmed:** 3-5 controlled reps/side
+- **Demo:** E3 Rehab Exercise Library — Wall Constrained Lateral Step Down
+- https://www.youtube.com/watch?v=tyyYyAdUEDY
+- **Cue:** Lower under control, keep the stance foot planted, and use only the depth that lets the pelvis and knee stay controlled.
+- **Note:** This is the canonical demo for the current touchdown/step-down stage. Update the demo when the active progression changes to assisted pistol, shrimp, or another branch.
+
+### Back squat
+- **Programmed:** 6-10 reps when squat is selected as Main Lift B
+- **Demo:** Squat University — How to Perform a PERFECT Squat
+- https://www.youtube.com/watch?v=AIZ8q1qruKw
+- **Cue:** Brace before descending, keep the whole foot connected to the floor, and use a stance and depth that allow stable, repeatable reps.
+
 ### Romanian deadlift (RDL)
 - **Programmed:** 6-10 reps
 - **Demo:** Squat University — Romanian Deadlift Tutorial
 - https://www.youtube.com/watch?v=5bJEigM5iVg
 - **Cue:** Hinge from the hips with a controlled eccentric, keep the load close, and stop at the deepest range you can own without losing trunk position.
+
+### Seated leg curl
+- **Programmed:** 10-15 reps
+- **Demo:** Renaissance Periodization — Seated Leg Curl
+- https://www.youtube.com/watch?v=Orxowest56U
+- **Cue:** Set the machine so the knee joint lines up comfortably with the machine axis, keep the hips/back stable, and control both the curl and the return.
+
+### Calf raise
+- **Programmed:** 12-20 reps
+- **Demo:** Renaissance Periodization — 8 Calf Raise Mistakes and How to Fix Them
+- https://www.youtube.com/watch?v=Xa18jxyeSnM
+- **Cue:** Use a stable setup, controlled full range, a brief stretch at the bottom, and avoid bouncing or turning the exercise into a balance drill.
+
+### Hanging knee raise
+- **Programmed:** 8-15 reps when selected for Core/Mobility Superset E
+- **Demo:** FitnessFAQs — The WORST Ab Training MISTAKES | Leg Raises
+- https://www.youtube.com/watch?v=QyVq5oUBpss
+- **Cue:** Start from a controlled hang, minimize swinging, curl the pelvis as the knees rise, and lower with control.
+- **Note:** The video explicitly teaches both hanging knee raises and hanging leg raises. The lying-leg-raise fallback still needs its own direct demo if that variation becomes the active choice.
 
 ### Deep squat hold
 - **Programmed:** 30-60 sec
@@ -127,6 +184,12 @@ Couch stretch, calf stretch, and 90/90 hip-switch references are listed below un
 - **Demo:** ZOAR Fitness — Frog Stretch
 - https://www.youtube.com/watch?v=6RzJrP5f4MM
 - **Cue:** Ease into the adductor stretch gradually and avoid forcing the knees wider than you can control.
+
+### Hamstring floss
+- **Programmed:** 10/side
+- **Demo:** Rehab 2 Perform — Hamstring Flossing
+- https://www.youtube.com/watch?v=zm6Q_gk67FQ
+- **Cue:** Move smoothly in and out of the position rather than holding an aggressive end-range stretch; keep the motion comfortable and controlled.
 
 ## Day 4 — Just Run + Full-Body Mobility
 
@@ -226,10 +289,7 @@ These same references also apply when the movements appear on other days:
 
 Do not invent URLs for these. Verify a reputable direct demo first, then add it here if useful:
 - wrist circles/rocks and wrist flexor/extensor stretch
-- hip circles/CARs
-- primary single-leg squat progression (touchdown/skater/assisted pistol or shrimp, depending on current level)
-- hamstring floss
-- hanging knee raise / lying leg raise
-- leg curl and calf raise machine setup if a machine-specific demo is needed
+- lying leg raise fallback on Day 3
+- assisted pistol or shrimp-specific demo once the primary single-leg squat progression advances beyond the current touchdown/lateral-step-down stage
 
 Last consolidated: 2026-08-08.
