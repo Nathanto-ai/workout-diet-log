@@ -95,6 +95,11 @@ Daily:
 - Get some fiber/produce.
 - Fuel training well enough to maintain performance.
 - Do not compensate for an imperfect meal by crash-cutting the rest of the day.
+- Supplement check:
+  - **Creatine monohydrate:** **3-5 g/day** once started.
+  - **Collagen peptides:** **10-15 g/day** as an optional connective-tissue/joint-support trial; consistency matters more than exact timing.
+  - **Omega-3:** check whether fatty fish or an omega-3 supplement covered the day/week.
+  - **Psyllium/fiber supplement:** use as needed when food intake leaves fiber below target; do not automatically supplement if fiber is already adequate.
 
 Weekly:
 - Compare 7-day average bodyweight.
