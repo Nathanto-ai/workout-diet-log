@@ -168,7 +168,7 @@ This retains one of the strongest features of v2: low-friction home training.
 
 **Pass with an important monitoring requirement.**
 
-The profile currently starts around 1,900 kcal/day with a flexible 1,800-2,000 range and 160-180 g protein/day. The training plan contains enough work to support muscle/strength retention and regain, but six active days while dieting can still exceed recovery capacity if weight loss is too aggressive.
+The profile currently starts around 1,900 kcal/day with a flexible 1,800-2,000 range and 160-180 g protein/day. That protein range is a chosen high target, not a proven individual minimum. The training plan contains enough work to support muscle/strength retention and regain, but six active days while dieting can still exceed recovery capacity if weight loss is too aggressive.
 
 If several markers deteriorate together for multiple weeks -- strength, running performance, sleep, soreness, hunger, adherence -- review calorie deficit and total hard-set volume before adding more training.
 
@@ -189,12 +189,4 @@ The v3 plan is **well aligned with the stated multi-goal objective**:
 - complete home fallbacks when the gym is inconvenient
 - one full rest day and explicit recovery rules
 
-The exercise categories are covered on paper. Individual recovery, current energy needs, and progress toward the weight goal still need adequate repeated measurements. Run the plan consistently, log the key progression markers, and let several weeks of real performance and bodyweight data determine whether volume or calories need adjustment.
-
-## Data limits as of 2026-09-26
-
-The repository has 37 dated logs through 2026-09-26, but only four numeric bodyweights: three in February and one on 2026-07-31. Fifteen logs are prose-only and lack structured front matter, so automated weekly summaries cannot reliably count every workout or compute a current weight trend. The 2026-09-20 through 2026-09-25 entries describe the six scheduled session types; the 2026-09-26 log is a partial-day food entry. These records do not establish a weight-loss rate or complete recovery trend.
-
-At the last logged 175 lb (about 79 kg), 160-180 g protein is roughly 2.0-2.3 g/kg/day. That is a chosen high target, not an evidence-based minimum. The 1,900-kcal starting point has not been validated against a recent weight trend, so calorie adjustment remains contingent on new data.
-
-Low-left-back/lat symptoms also appear in the 2026-08-02, 2026-08-13, and 2026-08-27 logs. The 2026-09-22 lower workout records familiar tension during RDLs and says RDL work stopped. These are observations from the logs, not a diagnosis or evidence that the issue has resolved.
+The exercise categories are covered on paper. Individual recovery, current energy needs, and progress toward the weight goal still need adequate repeated measurements. Run the plan consistently, log the key progression markers, and let several weeks of real performance and bodyweight data determine whether volume or calories need adjustment. For dated log findings and data gaps, see [AUDIT.md](../AUDIT.md).
