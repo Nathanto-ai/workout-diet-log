@@ -193,7 +193,7 @@ The exercise categories are covered on paper. Individual recovery, current energ
 
 ## Data limits as of 2026-09-26
 
-The repository has 36 dated logs through 2026-09-25, but only four numeric bodyweights: three in February and one on 2026-07-31. Fifteen logs are prose-only and lack structured front matter, so automated weekly summaries cannot reliably count every workout or compute a current weight trend. The 2026-09-20 through 2026-09-25 entries describe the six scheduled session types, but they do not establish a weight-loss rate or complete recovery trend.
+The repository has 37 dated logs through 2026-09-26, but only four numeric bodyweights: three in February and one on 2026-07-31. Fifteen logs are prose-only and lack structured front matter, so automated weekly summaries cannot reliably count every workout or compute a current weight trend. The 2026-09-20 through 2026-09-25 entries describe the six scheduled session types; the 2026-09-26 log is a partial-day food entry. These records do not establish a weight-loss rate or complete recovery trend.
 
 At the last logged 175 lb (about 79 kg), 160-180 g protein is roughly 2.0-2.3 g/kg/day. That is a chosen high target, not an evidence-based minimum. The 1,900-kcal starting point has not been validated against a recent weight trend, so calorie adjustment remains contingent on new data.
 
