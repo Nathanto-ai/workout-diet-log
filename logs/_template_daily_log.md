@@ -30,6 +30,9 @@ notes:
 ## Meals
 -
 
+## Supplements
+-
+
 ## Totals (optional)
 - calories:
 - protein_g:

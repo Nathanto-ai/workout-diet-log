@@ -1,4 +1,4 @@
-# Weekly Check-In (do every Sunday)
+# Weekly Check-In
 
 - Week starting Monday (YYYY-MM-DD):
 - Summary command: python scripts/summarize_week.py YYYY-MM-DD
@@ -10,8 +10,7 @@
 - Avg bodyweight this week:
 - Avg bodyweight last week:
 - Number of weigh-ins in each average:
-- Waist (at navel, relaxed):
-- Photos taken? (front/side/back): yes/no
+- Waist (at navel, relaxed, if measured):
 
 ## Training compliance
 - Workouts planned:
@@ -25,9 +24,9 @@
 ## Performance notes
 - Pull-ups (best set):
 - Push-ups (best set):
-- Plank (best hold):
+- Chest press and row load/reps/RIR:
 - Just Run duration/distance and effort:
-- Squat/leg press and RDL load/reps:
+- Squat/leg press and RDL load/reps/RIR:
 - Calisthenics skill or hold progress:
 
 ## Recovery
@@ -36,12 +35,13 @@
 - Any pain hotspots:
 
 ## Cut and performance scorecard
-- Waist trend: down / flat / up
+- Waist trend (if measured): down / flat / up
 - Strength trend: up / flat / down
 - Running stamina trend: up / flat / down
 - Energy trend: up / flat / down
 - Avg calorie intake on fully logged days (sample count):
 - Avg protein on fully logged days (sample count):
+- Fiber/produce notes on fully logged days:
 
 ## Decision (pick ONE)
 - Insufficient data: keep current plan and improve logging
