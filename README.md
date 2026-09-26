@@ -26,7 +26,7 @@ The script summarizes numeric front matter fields and reports sample counts. Pro
 ## Repository map
 
 - `config/profile.yml` — current profile and planning targets.
-- `plan/` — active workout and diet plans, progression guidance, exercise references, and future roadmap.
+- `plan/` — active workout and diet plans, an archived v1 progression guide, exercise references, and future roadmap.
 - `logs/` — dated records and the daily template.
 - `tracking/` — weekly review template and optional measurements index.
 - `scripts/` — read-only summary helper.
