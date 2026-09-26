@@ -1,7 +1,7 @@
 
 # Supplemental exercise references
 
-Use plan/exercise-videos.md for demonstrations matched to the active v3 plan. The links below are supplemental movement references. The dip and inverted-row pages show fixed bars or gym equipment; use the ring-specific references for the home setup. Confirm that rings and their anchor are secure before loading them, and scale range of motion to comfortable control.
+Use plan/exercise-videos.md for demonstrations matched to the active v3 plan. The links below are supplemental movement references. The dip and inverted-row pages show fixed bars or gym equipment; the ring-workout reference below covers ring support, rows, and dip progressions. Confirm that rings and their anchor are secure before loading them, and scale range of motion to comfortable control.
 
 - Pull-up (form + tips): https://weighttraining.guide/exercises/pull-up/
 - Push-up (form + tips): https://weighttraining.guide/exercises/push-up/

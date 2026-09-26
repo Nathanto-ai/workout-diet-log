@@ -8,7 +8,7 @@ The current exercise choices, sets, home fallbacks, and progression tracks are i
 - Normal working sets use about 1-2 RIR; during a restart use about 2-3 RIR or remove a working set. Stop skill sets before technique breaks down.
 - Change one progression variable at a time: reps, load, assistance, range of motion, leverage, or hold time.
 - The active markers are push-up, pull-up, dip, pike/HSPU, handstand, L-sit, unilateral squat, chest press, row, squat/leg press, and RDL. Details and optional future branches are in workout-plan.md.
-- Record recurring pain or unusual tension. The 2026-09-22 lower session stopped RDLs when familiar low-left-back/lat tension returned; keep that observation visible when choosing the next hinge variation.
+- Record recurring pain or unusual tension. Low-left-back/lat symptoms appear in the 2026-08-02, 2026-08-13, 2026-08-27, and 2026-09-22 logs; the last lower session stopped RDLs when tension returned. Review current symptoms before choosing the next hinge load or variation.
 
 ## Running and mobility
 

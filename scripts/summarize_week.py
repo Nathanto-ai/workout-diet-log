@@ -91,11 +91,15 @@ def main() -> int:
             missing.append(day.isoformat())
             print(f"- {day.isoformat()} | log=missing")
             continue
-        fields = parse_front_matter(path.read_text(encoding="utf-8"))
+        content = path.read_text(encoding="utf-8")
+        fields = parse_front_matter(content)
         if not fields:
-            warnings.append(f"{day.isoformat()}: missing or unclosed front matter")
             manual_review.append(day.isoformat())
-            print(f"- {day.isoformat()} | log=present; format=prose-only; manual review")
+            if content.splitlines()[:1] == ["---"]:
+                warnings.append(f"{day.isoformat()}: unclosed or empty front matter")
+                print(f"- {day.isoformat()} | log=present; format=invalid front matter; manual review")
+            else:
+                print(f"- {day.isoformat()} | log=present; format=prose-only; manual review")
             continue
         structured += 1
         if fields.get("date") != day.isoformat():

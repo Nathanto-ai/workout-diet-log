@@ -34,7 +34,7 @@ equipment:
   notes: "Hybrid plan uses gym loading when convenient, but every gym-dependent movement has a home/calisthenics fallback using the pull-up bar, rings, bands, vest/backpack, sliders/bodyweight, and outdoor running."
 
 constraints:
-  injuries_or_pain: "None reported."
+  injuries_or_pain: "Recurring low-left-back/lat discomfort or tension was logged during/after training on 2026-08-02, 2026-08-13, 2026-08-27, and 2026-09-22. Current symptom status is unknown; no diagnosis is recorded."
   schedule_notes: "Full plan alternates 3 resistance/skill days with 3 Just Run sessions and keeps 1 full rest day. Day 5 is protected as pure calisthenics. If gym access/timing is inconvenient, use the listed home fallback instead of skipping or doubling up. During the restart phase, 4-5 completed sessions is acceptable. Reduce volume 20-30% after poor sleep or unusual soreness."
 
 nutrition:

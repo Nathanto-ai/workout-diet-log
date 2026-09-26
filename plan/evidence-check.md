@@ -101,7 +101,7 @@ This prevents the exercise from becoming unnecessary complexity while preserving
 
 ## Lower-body workload
 
-**Pass; improved from the earlier hybrid draft.**
+**Workable restart compromise; monitor lower-body strength and recovery.**
 
 Day 3 is intentionally streamlined:
 - 2 skill sets of unilateral squat practice
@@ -114,6 +114,7 @@ Day 3 is intentionally streamlined:
 Day 5 adds lighter unilateral/Cossack/single-leg-RDL skill/control exposure rather than another maximal leg session.
 
 This is more compatible with three weekly beginner runs than stacking squat, RDL, Bulgarian split squat, leg curl, pistol work, and other leg work all on Day 3.
+It also leaves only one clearly hard bilateral lower-body session each week. The lighter Day 5 practice should not be counted as an equivalent second hypertrophy session without evidence from effort and progress logs. Reassess after several consistent weeks rather than assuming the current dose is optimal.
 
 ## Running integration
 
@@ -196,4 +197,4 @@ The repository has 36 dated logs through 2026-09-25, but only four numeric bodyw
 
 At the last logged 175 lb (about 79 kg), 160-180 g protein is roughly 2.0-2.3 g/kg/day. That is a chosen high target, not an evidence-based minimum. The 1,900-kcal starting point has not been validated against a recent weight trend, so calorie adjustment remains contingent on new data.
 
-The 2026-09-22 lower workout records familiar low-left-back/lat tension during RDLs and says RDL work stopped. The plan's existing rule to stop or regress a movement when symptoms recur applies to the next hinge session. This note is an observation from the log, not a diagnosis.
+Low-left-back/lat symptoms also appear in the 2026-08-02, 2026-08-13, and 2026-08-27 logs. The 2026-09-22 lower workout records familiar tension during RDLs and says RDL work stopped. The active plan now calls for a symptom check before the next RDL and no automatic load increase. These are observations from the logs, not a diagnosis or evidence that the issue has resolved.
