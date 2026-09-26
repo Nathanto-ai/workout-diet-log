@@ -6,7 +6,6 @@ This repository records actual training and food intake alongside a plan. Dated 
 
 - Goal: gradual cut toward about 151 lb while building or retaining strength, calisthenics skills, running stamina, and mobility.
 - Last numeric bodyweight in the tracked logs: 175 lb on 2026-07-31. The profile's 173-177 lb range is a planning snapshot, not a current trend.
-- Recurrent low-left-back/lat symptoms were logged in August and September; current symptom status is unknown. Review that history before the next RDL session.
 - Nutrition starting point: 1,900 kcal/day, with a flexible 1,800-2,000 kcal range and 160-180 g/day protein. Review plan/diet-plan.md before changing these provisional targets.
 - Training: plan/workout-plan.md v3 has two hybrid strength days, one protected pure-calisthenics day, three Just Run days, and one rest day. Its restart ramp allows 4-5 completed sessions while rebuilding consistency. Follow the next Just Run workout rather than adding separate interval or tempo sessions.
 

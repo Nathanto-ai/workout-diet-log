@@ -197,4 +197,4 @@ The repository has 36 dated logs through 2026-09-25, but only four numeric bodyw
 
 At the last logged 175 lb (about 79 kg), 160-180 g protein is roughly 2.0-2.3 g/kg/day. That is a chosen high target, not an evidence-based minimum. The 1,900-kcal starting point has not been validated against a recent weight trend, so calorie adjustment remains contingent on new data.
 
-Low-left-back/lat symptoms also appear in the 2026-08-02, 2026-08-13, and 2026-08-27 logs. The 2026-09-22 lower workout records familiar tension during RDLs and says RDL work stopped. The active plan now calls for a symptom check before the next RDL and no automatic load increase. These are observations from the logs, not a diagnosis or evidence that the issue has resolved.
+Low-left-back/lat symptoms also appear in the 2026-08-02, 2026-08-13, and 2026-08-27 logs. The 2026-09-22 lower workout records familiar tension during RDLs and says RDL work stopped. These are observations from the logs, not a diagnosis or evidence that the issue has resolved.

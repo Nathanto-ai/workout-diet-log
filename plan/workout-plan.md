@@ -145,7 +145,6 @@ Choose one primary knee-dominant lift, not both.
 - Rest **2-3 min** as needed
 
 Use controlled eccentric motion and a comfortable range of motion.
-The logs record recurring low-left-back/lat symptoms around hinge or return sessions, most recently tension during RDLs on 2026-09-22. Check current symptoms before this lift, do not automatically progress its load, and stop the set if that familiar issue returns. Record what happened so the next session can be adjusted from actual tolerance.
 
 ## Accessory Superset D — 2 rounds
 - **D1. Leg curl** — 10-15 reps
