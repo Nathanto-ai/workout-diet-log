@@ -69,6 +69,8 @@ Build dinner around:
 - **Carbohydrate:** add rice, potatoes, pasta, bread, fruit, etc. based on remaining calories, hunger, and training needs
 - **Fat:** measure added oils/sauces when they meaningfully affect calories
 
+Recipe inspiration: [Flexible Dieting Lifestyle](https://flexibledietinglifestyle.com/) and [Stealth Health Life](https://stealthhealthcookbook.com/). When logging one of their recipes, name the specific recipe and calculate the serving from the ingredients, substitutions, and portions actually used; treat published macros as a starting estimate.
+
 ### Run/strength-day carb approach
 
 Keep the same basic calorie target for simplicity. On harder or hungrier training days, it is fine to use the **upper end of the 1,800-2,000 range** and allocate more of the remaining calories to carbohydrates.
