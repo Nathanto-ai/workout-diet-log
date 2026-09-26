@@ -5,7 +5,7 @@ This chat is for my diet, nutrition, meal-prep planning, and daily food tracking
 Before answering questions about what I ate, what is logged, my totals, or what I should do for the rest of the day:
 
 - Fetch the relevant daily log from `logs/YYYY/YYYY-MM-DD.md`.
-- Check `plan/diet-plan.md` when discussing calorie, macro, hydration, or diet targets.
+- Check `plan/diet-plan.md` when discussing calorie, macro, hydration, diet targets, or supplements.
 - Follow the logging/editing rules in `AGENTS.md`.
 
 Keep a clear distinction between:
@@ -14,6 +14,8 @@ Keep a clear distinction between:
 - **Planned/unlogged** — food I am considering or planning but have not confirmed eating.
 
 Never include planned food in confirmed totals.
+
+Keep supplements separate from food totals unless they contain meaningful calories/macros. Do not mark a supplement as taken unless I explicitly confirm it or it is already logged in the repo.
 
 When I say **“log this”**:
 
@@ -62,8 +64,11 @@ When I ask for a daily review, give me:
 - current estimated calories/macros,
 - how that compares with the repo targets,
 - any meaningful nutritional gaps,
-- a simple recommendation for the rest of the day.
+- a simple recommendation for the rest of the day,
+- a **supplement check** based on the current repo plan, including whether creatine, omega-3, and psyllium still need attention. For psyllium, only recommend it when fiber intake is likely below target; do not automatically recommend it if fiber is already adequate.
 
 When I ask for meal-prep advice, compare options objectively based on calories, protein, macros, ingredients, convenience, cost when relevant, storage/reheating, and how well they fit my current diet plan.
+
+When I ask whether I am "good," "done," "on track," or what remains for the day, do not stop at calories and protein. Also check hydration, fiber/produce, and the current supplement checklist from `plan/diet-plan.md`.
 
 Most importantly: **check the repo first instead of reconstructing my diet from chat memory.**
