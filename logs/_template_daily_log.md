@@ -23,7 +23,7 @@ notes:
 ## Performance markers (optional)
 - Strength/calisthenics top set(s) and RIR:
 - Skill hold times (handstand, ring support, L-sit, etc.):
-- Just Run (workout/stage, duration, distance or pace, RPE):
+- Running (workout/stage if applicable, duration, distance or pace, RPE):
 
 # Nutrition
 
