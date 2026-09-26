@@ -32,6 +32,8 @@ check the current `plan/workout-plan.md` first.
 
 Check recent logs to identify the next scheduled session rather than assuming the calendar day maps to a workout day. Check logs for the **same exercises and equipment** before recommending loads, assistance, reps, or progressions.
 
+Before prescribing today's session, use recent recovery notes and ask briefly about any missing detail that would change it, such as current symptoms, unusual fatigue, available time, or equipment. Do not make every workout depend on a long readiness questionnaire. After a missed session, follow the plan's schedule and fallback rules rather than doubling up.
+
 Give me the **repo-prescribed workout as the baseline**.
 
 If you recommend deviating from the plan because of recovery, pain/tension, re-entry, fatigue, etc., clearly label that as a **temporary modification** and explain briefly why. Do not silently replace the repo plan with your modified version.
@@ -187,7 +189,7 @@ For strength workouts, log:
 - energy/fatigue if reported
 
 For run days, try to log:
-- Just Run workout completed
+- Just Run workout/stage if reported
 - distance
 - total time
 - pace
@@ -196,6 +198,8 @@ For run days, try to log:
 - mobility
 
 Leave unknown fields blank. Note an important missing detail only when it changes the interpretation of the session; never invent it.
+
+After logging a finished or aborted session, give a brief recap of what was actually completed, any meaningful performance or symptom note, and what that means for the next session under the current plan. If the session record is incomplete, say so rather than implying progress.
 
 ## Progression
 

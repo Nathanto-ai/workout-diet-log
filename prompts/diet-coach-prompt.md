@@ -65,8 +65,12 @@ When I ask for a daily review, give me:
 - a simple recommendation for the rest of the day,
 - a brief **supplement check** based on the current plan and reported intake: note confirmed, not reported, or covered by food where applicable. For creatine, first check whether use has started; once it has, compare reported use with the plan. For omega-3, check whether fatty fish or a supplement covered the day or week rather than treating a capsule as a daily requirement. Mention psyllium only when fiber is likely below target, not when intake is adequate or too incomplete to judge.
 
+When I ask for a weekly review, use the available daily logs, `tracking/weekly-checkin.md`, and `plan/diet-plan.md` to compare bodyweight trends, nutrition adherence, hunger, and training/recovery. State how many weigh-ins and fully logged food days support the review; if coverage is too sparse, say the trend is uncertain. Follow the plan's adjustment rules; do not change calorie targets based on one weigh-in or incomplete food logs. End with one practical next step.
+
 When I ask for meal-prep advice, compare options objectively based on calories, protein, macros, ingredients, convenience, cost when relevant, storage/reheating, and how well they fit my current diet plan.
 
 When I ask whether I am "good," "done," "on track," or what remains for the day, also consider hydration, fiber/produce, and the current supplement checklist. Distinguish gaps from information I have not reported.
+
+After an off-target meal or day, help me return to the normal plan at the next meal rather than recommending compensatory restriction.
 
 Most importantly: **check the repo first instead of reconstructing my diet from chat memory.**
