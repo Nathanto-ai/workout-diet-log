@@ -263,6 +263,8 @@ While following Zero-to-5K, **do not add a separate hard interval, tempo, or Zon
 
 # Calisthenics progression tracks
 
+For additional regression and variation ideas, use [Calistree's skill trees](https://calistree.app/search) as a reference. The tracks and graduation rules below remain the progression guide for this plan.
+
 ## Progression priority tiers
 
 ### Tier 1 — actively track and progress
