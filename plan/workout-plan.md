@@ -1,6 +1,6 @@
 # Workout Plan (v3 - hybrid strength + calisthenics + running + mobility)
 
-**Primary goal:** cut from roughly 175 lb toward ~151 lb while building/retaining muscle and strength, developing a strong calisthenics foundation for advanced skills later, improving running stamina, and maintaining or improving mobility/flexibility.
+**Training goal:** build/retain muscle and strength, develop calisthenics foundations, improve running stamina, and maintain or improve mobility/flexibility during a gradual cut. `plan/diet-plan.md` owns the weight goal and nutrition targets.
 
 This plan uses **two hybrid gym/home strength days, one protected pure-calisthenics day, three Just Run sessions, and one full rest day**.
 
@@ -392,7 +392,7 @@ Track these as simple load/repetition performance markers:
 
 Use double progression:
 1. Keep the load stable while building reps within the prescribed range.
-2. When all working sets reach the top of the range with ~1-2 RIR and clean technique, increase the load by the smallest practical increment.
+2. When all working sets reach the top of the range with ~1-2 RIR and clean technique across at least two comparable sessions, increase the load by the smallest practical increment.
 3. Return toward the lower end of the rep range and build again.
 
 Accessories such as lateral raises, leg curls, and calf raises follow the same basic idea but do not need aggressive load jumps.
@@ -419,30 +419,6 @@ The plan deliberately preserves the mobility coverage from v2:
 
 ---
 
-# Weekly coverage audit
-
-The plan covers:
-
-- **Horizontal push:** chest press + push-up progression + dips
-- **Vertical push:** pike/HSPU progression + handstand work
-- **Vertical pull:** pull-up progression
-- **Horizontal pull:** cable/chest-supported row + ring row
-- **Bilateral knee-dominant strength:** squat or leg press
-- **Unilateral squat/lunge strength:** pistol/shrimp track
-- **Lateral lower-body movement:** Cossack/lateral practice
-- **Hip hinge/glutes:** RDL + single-leg RDL
-- **Hamstrings at the knee:** leg curl / home slider fallback
-- **Calves/ankles:** calf raises + ankle mobility
-- **Core anti-extension:** hollow hold
-- **Core compression/hip flexion:** knee raises + L-sit
-- **Balance/skill:** handstand + unilateral lower-body work
-- **Cardio:** 3 Just Run sessions while on Zero-to-5K
-- **Mobility/flexibility:** ankles, hips, hamstrings, thoracic spine, shoulders, wrists
-
-Upper push/pull receives two meaningful weekly exposures. Lower-body strength receives a primary hybrid session plus lighter calisthenics skill/control exposure on Day 5, while running load is managed by keeping Day 3 streamlined.
-
----
-
 # Progression and recovery rules
 
 - Normal strength/hypertrophy work: **1-2 RIR** on most working sets.
@@ -450,15 +426,15 @@ Upper push/pull receives two meaningful weekly exposures. Lower-body strength re
 - Restart weeks: **2-3 RIR** and/or remove one working set from larger exercises.
 - Progress with one variable at a time: reps, load, assistance, range of motion, leverage, or hold time.
 - Training to momentary failure is not required.
-- Deload after roughly **4-6 hard weeks or sooner if recovery clearly deteriorates**: reduce total hard working sets by about 30-40% for around one week.
+- If performance and recovery clearly deteriorate across multiple sessions, consider a lighter week with about 30-40% fewer hard working sets before resuming normal volume.
 - After 2+ nights of poor sleep or unusual soreness, reduce volume about 20-30% while keeping technique clean.
 - Persistent or sharp joint pain is a reason to stop/regress the movement, not push through it.
 
 ### Concurrent running rule
 Three beginner Just Run sessions are compatible with the resistance plan, but recovery still matters. Do not add extra hard running while building the base. If lower-body strength, run quality, or soreness consistently worsens, reduce training stress before adding more work.
 
-### Cutting/recovery rule
-The plan is being performed during a calorie deficit. The immediate target is to **retain/regain muscle, build strength, and improve skills while losing weight gradually**. If bodyweight is falling quickly while strength, running performance, sleep, soreness, or hunger deteriorate for multiple weeks, review recovery and calorie intake before assuming the workout needs more volume.
+### Nutrition and recovery link
+If strength, running performance, sleep, soreness, or hunger deteriorate for multiple weeks during the cut, review training stress and the weight/intake trend using `plan/diet-plan.md` before adding workout volume. Make calorie decisions under that plan's adjustment rules.
 
 ---
 
@@ -482,7 +458,7 @@ Prioritize these rather than trying to PR every exercise:
 - RDL load/reps
 
 ## Running
-- Just Run workout completed
+- Just Run workout/stage if reported
 - distance/pace when available
 - RPE/recovery notes
 
@@ -500,7 +476,6 @@ Use simple qualitative/benchmark notes rather than chasing PRs:
 
 The plan is working if most of these are true:
 
-- bodyweight trend is moving appropriately for the cut;
 - strength is stable or improving overall;
 - push-up, pull-up, dip, pike/HSPU, handstand, L-sit, and unilateral-squat foundations are stable or improving;
 - Just Run sessions are progressing without excessive leg/joint soreness;
@@ -509,4 +484,4 @@ The plan is working if most of these are true:
 - recovery is good enough to complete most of the schedule;
 - gym timing problems are solved with home fallbacks instead of skipped sessions.
 
-If several of these deteriorate together for 2+ weeks, review sleep, calories, total hard-set volume, and running fatigue before adding exercises.
+If several of these deteriorate together for 2+ weeks, review sleep, total hard-set volume, running fatigue, and the nutrition trend under `plan/diet-plan.md` before adding exercises.

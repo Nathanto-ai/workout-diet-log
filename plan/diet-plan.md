@@ -2,7 +2,7 @@
 
 ## Primary target
 
-Current starting point: roughly **175 lb**, with a long-term goal near **151 lb**.
+The last logged numeric bodyweight was **175 lb on 2026-07-31**; current weight needs confirmation. The long-term goal is near **151 lb**.
 
 The goal is a **gradual cut** that supports strength, calisthenics progression, and Just Run training while retaining/regaining as much muscle as practical.
 
@@ -45,18 +45,13 @@ There is no need to force protein far above the target if calories, fiber, fruit
 
 ---
 
-## Preferred meal structure
+## Flexible meal structure
 
-Default high-compliance day:
-
-1. **Huel Black shake + Kirkland 2% ultra-filtered milk**
-2. **Huel Black shake + Kirkland 2% ultra-filtered milk**
-3. **High-protein dinner**
-4. Fruit / small carb or protein snack as needed to land near the daily target
+Huel Black with Kirkland 2% ultra-filtered milk is a convenient option, not a required meal count. Recent logs include both one- and two-shake days. Build the rest of the day from meals and snacks that fit the calorie, protein, fiber, and produce targets.
 
 Use the **actual Huel and milk labels** when logging rather than relying on a permanent estimate in this file, since products/servings can change.
 
-Two milk-based shakes can use a large portion of the 1,900-kcal budget, so dinner should be portioned intentionally rather than treated as unlimited calories.
+When choosing two milk-based shakes, account for their substantial share of the daily calorie budget when planning other meals.
 
 ---
 
@@ -64,7 +59,7 @@ Two milk-based shakes can use a large portion of the 1,900-kcal budget, so dinne
 
 Build dinner around:
 
-- **Protein:** about 8-12 oz meat/fish or an equivalent high-protein alternative
+- **Protein:** a portion of meat, fish, or another protein source that fits the day's target
 - **Vegetables:** roughly 1-2+ servings
 - **Carbohydrate:** add rice, potatoes, pasta, bread, fruit, etc. based on remaining calories, hunger, and training needs
 - **Fat:** measure added oils/sauces when they meaningfully affect calories
@@ -76,16 +71,6 @@ Recipe inspiration: [Flexible Dieting Lifestyle](https://flexibledietinglifestyl
 Keep the same basic calorie target for simplicity. On harder or hungrier training days, it is fine to use the **upper end of the 1,800-2,000 range** and allocate more of the remaining calories to carbohydrates.
 
 Useful carb options around training include fruit, rice, oats, bread, potatoes, and similar foods.
-
----
-
-## Minimum nutrition checkpoints
-
-- Protein: **160-180 g/day target; about 150 g/day fallback**
-- Fiber: **25-35 g/day**
-- Include fruit and/or vegetables daily rather than relying exclusively on shakes/meat
-- Water: roughly **2.5-3.5 L/day**
-- Do not chronically under-salt food when sweating/running, unless medically directed otherwise
 
 ---
 
@@ -105,29 +90,5 @@ Daily:
 Weekly:
 - Compare 7-day average bodyweight.
 - Note waist/clothing fit when useful.
-- Review strength/skill progress and Just Run recovery.
+- Consider training performance and recovery when deciding whether nutrition targets are working; use `plan/workout-plan.md` for training changes.
 - Adjust calories only after the trend is clear.
-
----
-
-## Logging protocol in this repo/chat
-
-When you message updates, include when available:
-- time
-- workout completed (or rest)
-- meals/snacks with rough quantities or label values
-- bodyweight
-- energy/hunger (optional 1-5)
-
-For better progress tracking also include:
-- Just Run workout completed + distance/pace/RPE if available
-- reps/holds and current progression level for push-up, pull-up, dip, lower-body skill, handstand/L-sit, etc.
-- mobility note (e.g. knee-to-wall, deep squat comfort, 90/90, wall-slide quality)
-- sleep, soreness/pain, steps
-- hydration/fiber checkpoints
-
-Chat updates can be translated into:
-- daily log entries in `/logs/`
-- calorie/protein estimates with uncertainty labeled
-- weekly trend summaries
-- next-session adjustments

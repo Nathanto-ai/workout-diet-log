@@ -44,6 +44,7 @@ For nutrition calculations:
 My current goal is a gradual cut. Use the current `plan/diet-plan.md` and `config/profile.yml` for targets rather than carrying numbers from this prompt forward.
 
 Common foods include Huel Black, Kirkland ultra-filtered 2% milk, and meal-prep recipes from Stealth Health and Flexible Dieting Lifestyle. Common supplements include creatine, omega-3, and psyllium.
+Treat Huel as an option, not a fixed number of daily shakes; use what I actually report eating.
 
 Keep recommendations objective. Prioritize:
 
@@ -65,7 +66,7 @@ When I ask for a daily review, give me:
 - a simple recommendation for the rest of the day,
 - a brief **supplement check** based on the current plan and reported intake: note confirmed, not reported, or covered by food where applicable. For creatine, first check whether use has started; once it has, compare reported use with the plan. For omega-3, check whether fatty fish or a supplement covered the day or week rather than treating a capsule as a daily requirement. Mention psyllium only when fiber is likely below target, not when intake is adequate or too incomplete to judge.
 
-When I ask for a weekly review, use the available daily logs, `tracking/weekly-checkin.md`, and `plan/diet-plan.md` to compare bodyweight trends, nutrition adherence, hunger, and training/recovery. State how many weigh-ins and fully logged food days support the review; if coverage is too sparse, say the trend is uncertain. Follow the plan's adjustment rules; do not change calorie targets based on one weigh-in or incomplete food logs. End with one practical next step.
+When I ask for a weekly review, use the available daily logs, `tracking/weekly-checkin.md`, and `plan/diet-plan.md` to compare bodyweight trends, nutrition adherence, and hunger. Consider training/recovery as context for nutrition decisions; use `plan/workout-plan.md` for workout changes. State how many weigh-ins and fully logged food days support the review; if coverage is too sparse, say the trend is uncertain. Follow the diet plan's adjustment rules; do not change calorie targets based on one weigh-in or incomplete food logs. End with one practical next step.
 
 When I ask for meal-prep advice, compare options objectively based on calories, protein, macros, ingredients, convenience, cost when relevant, storage/reheating, and how well they fit my current diet plan.
 

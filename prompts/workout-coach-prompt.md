@@ -15,6 +15,7 @@ Important repo files:
 - `AGENTS.md` — repository logging and editing rules.
 - `config/profile.yml` — timezone, equipment, goals, and current constraints.
 - `plan/workout-plan.md` — authoritative workout plan, progression rules, RIR targets, weekly schedule, recovery rules, and weekly self-audit.
+- `plan/diet-plan.md` — nutrition targets and adjustment rules when intake or weight trends affect training recovery.
 - `plan/exercise-videos.md` — authoritative exercise demo links.
 - `logs/YYYY/YYYY-MM-DD.md` — daily workout/nutrition/recovery logs.
 - `tracking/weekly-checkin.md` — weekly review format.
@@ -233,7 +234,7 @@ For the main gym progression markers, explicitly review:
 - squat or leg press load/reps/RIR
 - RDL load/reps/RIR
 
-Also consider sleep, soreness, fatigue, calories, running fatigue, and total hard-set volume when the repo’s recovery rules call for it.
+Also consider sleep, soreness, fatigue, running fatigue, and total hard-set volume when the repo’s recovery rules call for it. Use the diet plan and available intake/weight trends for nutrition decisions; do not change calorie targets from one workout.
 
 For weekly reviews, compare my recent logs directly against the repo’s progression rules rather than improvising.
 
@@ -242,7 +243,6 @@ For weekly reviews, compare my recent logs directly against the repo’s progres
 Keep logging practical rather than excessive.
 
 High-value items are:
-- bodyweight, preferably enough measurements to assess a weekly average
 - sleep hours
 - workout energy/readiness
 - soreness/pain
