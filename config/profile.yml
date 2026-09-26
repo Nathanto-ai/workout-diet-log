@@ -1,9 +1,10 @@
-# Current profile and plan defaults.
+# Plan defaults updated in 2026; the last numeric log weight was 175 lb on
+# 2026-07-31. Reconfirm current bodyweight and recovery before trend decisions.
 user:
   name: "Nathan"
   age_years: 26
   height_in: 67   # 5'7"
-  weight_lb_range: [173, 177]   # currently ~175 lb; update from weekly trend
+  weight_lb_range: [173, 177]   # planning range; latest numeric log was 2026-07-31
   goal_weight_lb: 151
   timezone: "America/Los_Angeles"  # use as source of truth for day/date checks
 

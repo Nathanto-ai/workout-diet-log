@@ -1,6 +1,6 @@
 # Evidence Check (quick external validation)
 
-_Last checked: 2026-08-02_
+_Sources reviewed: 2026-08-02. Repository data rechecked: 2026-09-26._
 
 This note cross-checks the current **v3 hybrid strength + calisthenics + running + mobility plan** against recent guidance and major reviews.
 
@@ -26,7 +26,10 @@ This note cross-checks the current **v3 hybrid strength + calisthenics + running
   - Very high endurance volume can create some muscle-fiber-level interference, supporting the decision to keep running controlled by the beginner Just Run progression rather than adding extra hard mileage.
 - Protein supplementation + resistance-training meta-analysis (Morton et al., 2018):
   - https://pubmed.ncbi.nlm.nih.gov/28698222/
-  - Supports the plan's high-protein approach while resistance training, especially during a cut.
+  - Supports adequate protein alongside resistance training; it does not establish this person's exact target or test this cut directly.
+- NIH Office of Dietary Supplements athlete nutrition review:
+  - https://ods.od.nih.gov/factsheets/ExerciseAndAthleticPerformance-HealthProfessional/
+  - Describes roughly 1.2-2.0 g/kg/day for many athletes, with potentially higher needs during energy restriction.
 
 ---
 
@@ -170,7 +173,7 @@ If several markers deteriorate together for multiple weeks -- strength, running 
 
 ---
 
-# Final verdict
+# Design verdict
 
 The v3 plan is **well aligned with the stated multi-goal objective**:
 
@@ -185,4 +188,12 @@ The v3 plan is **well aligned with the stated multi-goal objective**:
 - complete home fallbacks when the gym is inconvenient
 - one full rest day and explicit recovery rules
 
-The main remaining unknown is individual recovery, not exercise-category coverage. Run the plan consistently, log the key progression markers, and let several weeks of real performance data determine whether volume or calories need adjustment.
+The exercise categories are covered on paper. Individual recovery, current energy needs, and progress toward the weight goal still need adequate repeated measurements. Run the plan consistently, log the key progression markers, and let several weeks of real performance and bodyweight data determine whether volume or calories need adjustment.
+
+## Data limits as of 2026-09-26
+
+The repository has 36 dated logs through 2026-09-25, but only four numeric bodyweights: three in February and one on 2026-07-31. Fifteen logs are prose-only and lack structured front matter, so automated weekly summaries cannot reliably count every workout or compute a current weight trend. The 2026-09-20 through 2026-09-25 entries describe the six scheduled session types, but they do not establish a weight-loss rate or complete recovery trend.
+
+At the last logged 175 lb (about 79 kg), 160-180 g protein is roughly 2.0-2.3 g/kg/day. That is a chosen high target, not an evidence-based minimum. The 1,900-kcal starting point has not been validated against a recent weight trend, so calorie adjustment remains contingent on new data.
+
+The 2026-09-22 lower workout records familiar low-left-back/lat tension during RDLs and says RDL work stopped. The plan's existing rule to stop or regress a movement when symptoms recur applies to the next hinge session. This note is an observation from the log, not a diagnosis.

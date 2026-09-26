@@ -3,7 +3,8 @@ date: YYYY-MM-DD
 sleep_hours:
 bodyweight_lb:
 steps:
-training: [upper|lower|run_intervals|run_tempo|skill|rest]
+training:
+training_status:
 mood_energy_1_5:
 notes:
 ---
@@ -22,7 +23,7 @@ notes:
 ## Performance markers (optional)
 - Strength/calisthenics top set(s) and RIR:
 - Skill hold times (handstand, ring support, L-sit, etc.):
-- Running (distance, pace, interval splits, RPE):
+- Just Run (workout/stage, duration, distance or pace, RPE):
 
 # Nutrition
 

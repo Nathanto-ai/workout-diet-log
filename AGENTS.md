@@ -18,9 +18,10 @@ Scope: entire repository.
 ## Working rules for agents
 These follow common "agent instruction" patterns used in public AI coding workflows:
 
-1. **Ask: is this a data update or plan update?**
-   - Data updates: edit only the relevant date file(s) in `logs/`.
+1. **Ask: is this a data update, plan update, or system update?**
+   - New daily data: edit the relevant date file in `logs/`. Use `training` for session type and `training_status` for completed, planned, missed, or rest.
    - Plan updates: edit files in `plan/` and explain rationale.
+   - System updates: keep the template, README, tracking guidance, and script consistent with the same field meanings. Do not backfill historical logs without clear source evidence.
 
 2. **Minimize blast radius.**
    - Do not reformat unrelated sections.
@@ -40,7 +41,7 @@ These follow common "agent instruction" patterns used in public AI coding workfl
    - Keep naming and section order stable.
 
 6. **Validation before commit.**
-   - Run at least: `git status --short` and preview changed files with `nl -ba`.
+   - Run at least: `git status --short` and preview changed files with line numbers (`nl -ba` or the PowerShell equivalent).
    - If a script is touched, run the script or a relevant check.
 
 7. **Commit discipline.**

@@ -2,7 +2,7 @@
 
 ## Primary target
 
-Current starting point: roughly **175 lb**, with a long-term goal near **151 lb**.
+Planning starting point: roughly **175 lb**, with a long-term goal near **151 lb**. The latest numeric weight in the tracked logs is 175 lb on 2026-07-31; current weight and rate of loss are unknown.
 
 The goal is a **gradual cut** that supports strength, calisthenics progression, and Just Run training while retaining/regaining as much muscle as practical.
 
@@ -16,7 +16,7 @@ The goal is a **gradual cut** that supports strength, calisthenics progression, 
 - **Fiber:** **25-35 g/day**
 - **Water:** roughly **2.5-3.5 L/day**, adjusted for heat/sweat/activity
 
-These are starting targets, not a claim that maintenance calories are known exactly. Use real weight trends and training quality to calibrate them.
+These are starting targets, not a claim that maintenance calories are known exactly. The logs do not yet contain enough recent weigh-ins to test the 1,900-kcal target against a weight trend. Use new weight data and training quality to calibrate it.
 
 ## Adjustment rules
 
@@ -37,7 +37,7 @@ Do not automatically "eat back" estimated exercise calories from watches/apps.
 
 ## Protein target
 
-Aim for **160-180 g/day**. An absolute floor of about **150 g/day** is a useful fallback on imperfect days.
+Aim for **160-180 g/day**. About **150 g/day** is a practical fallback on imperfect days, not a biological cutoff.
 
 Protein is intentionally high during the cut to support muscle retention/regain while strength training.
 
@@ -79,7 +79,7 @@ Useful carb options around training include fruit, rice, oats, bread, potatoes, 
 
 ## Minimum nutrition checkpoints
 
-- Protein: **150 g absolute fallback; 160-180 g target**
+- Protein: **about 150 g practical fallback; 160-180 g target**
 - Fiber: **25-35 g/day**
 - Include fruit and/or vegetables daily rather than relying exclusively on shakes/meat
 - Water: roughly **2.5-3.5 L/day**

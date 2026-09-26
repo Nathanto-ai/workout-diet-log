@@ -1,64 +1,43 @@
+# Workout and diet log
 
-# Workout + Diet Log (GitHub-friendly)
+This repository records actual training and food intake alongside a plan. Dated logs are the record of what happened; the profile and plan are working targets.
 
-This repo is a **simple system**:
-- follow the plan (workout + diet)
-- log each day in Markdown
-- run weekly check-ins
-- adjust calories/training based on trends
+## Active plan as of 2026-09-26
 
-## Quick start (5 minutes)
+- Goal: gradual cut toward about 151 lb while building or retaining strength, calisthenics skills, running stamina, and mobility.
+- Last numeric bodyweight in the tracked logs: 175 lb on 2026-07-31. The profile's 173-177 lb range is a planning snapshot, not a current trend.
+- Nutrition starting point: 1,900 kcal/day, with a flexible 1,800-2,000 kcal range and 160-180 g/day protein. Review plan/diet-plan.md before changing these provisional targets.
+- Training: plan/workout-plan.md v3 has two hybrid strength days, one protected pure-calisthenics day, three Just Run days, and one rest day. Its restart ramp allows 4-5 completed sessions while rebuilding consistency. Follow the next Just Run workout rather than adding separate interval or tempo sessions.
 
-1. Edit **`/config/profile.yml`** with your real details.
-2. Read **`/plan/workout-plan.md`** and do **Week 1**.
-3. Follow **`/plan/diet-plan.md`** for your calories/macros.
-4. Log today using **`/logs/_template_daily_log.md`**.
-5. Every Sunday, do **`/tracking/weekly-checkin.md`**.
+## Daily logging
 
+1. Use the local date in America/Los_Angeles. Start a new entry from logs/_template_daily_log.md at logs/YYYY/YYYY-MM-DD.md.
+2. In new structured logs, training names the session (upper_hybrid, lower_hybrid, just_run, pure_calisthenics, rest, or other). training_status is completed, planned, missed, or rest. A planned session is not completed until confirmed; record any replacement on its actual date.
+3. Record meals with portions and label data when available. Mark calculated calories and macros as estimates, and identify partial-day totals.
+4. Log sleep, bodyweight, steps, hydration, effort, and pain only when reported. Leave missing measurements blank.
 
-## Daily usage with chat
+Existing logs use mixed formats, including prose-only entries. Preserve their facts and dates. Status metadata was added to the older February logs only where their own text made the outcome clear. February 14 remains a day with no workout but an unclear reason; February 15 remains a planned make-up with no confirmed completion.
 
-- In the morning, ask: **"What needs to be done today?"**
-- After each workout/meal, send a quick update in chat.
-- I can convert updates into your daily markdown log and macro summary.
+## Weekly review
 
+Run the summary with the Monday of the week:
 
-## How to run this plan each week
+    python scripts/summarize_week.py 2026-09-21
 
-1. **Pick your weekly cadence:** complete the 5 core days (Mon-Fri structure) and use Day 6 as optional recovery/Zone-2 if energy and sleep are decent.
-2. **Train in the morning:** keep sessions ~45-70 minutes and stop most sets with 1-2 reps in reserve.
-3. **Log same day:** record training, meals, sleep, and bodyweight in a daily log.
-4. **Eat to targets:** follow the macro/calorie range from `plan/diet-plan.md` and prioritize protein minimums.
-5. **Review every Sunday:** run the weekly check-in and change only one variable (usually calories) at a time.
+Then fill tracking/weekly-checkin.md. The script calculates bodyweight and sleep averages only from numeric front matter values and reports their sample counts. It flags prose-only logs for manual review; it does not infer missing measurements or completion from free text. A missing date is missing data, never a rest day. tracking/measurements.csv is an optional index and currently has no rows; the dated logs are the source of truth.
 
-## Repo layout
+As of 2026-09-26, there are 36 tracked daily logs through September 25: 21 have front matter and 15 are prose-only. Only four logs have a numeric bodyweight (February 9-11 and July 31), so the repository cannot establish a recent weight-loss rate or measured maintenance calories. The September 20-25 entries do document a six-session sequence, but many recovery and bodyweight fields remain blank. Do not adjust calories from a sparse weekly average.
 
-- `config/` — your profile + targets
-- `plan/` — workout plan, diet plan, progression rules
-- `plan/evidence-check.md` — quick external validation against public guidance and major reviews
-- `logs/` — daily logs (Markdown)
-- `tracking/` — check-in template + measurements CSV
-- `scripts/` — optional helper script(s)
+## File map
 
-## Principles
-
-- **Consistency beats optimal.**
-- Track **trend** (weekly averages), not single-day fluctuations.
-- Change **one thing at a time** (usually calories first).
-
-
-## Merge conflict quick-fix checklist
-
-If you hit merge conflicts while syncing branches:
-1. Check status: `git status`
-2. Find conflicted files: `git diff --name-only --diff-filter=U`
-3. Open each file and resolve conflict blocks (`<<<<<<<`, `=======`, `>>>>>>>`)
-4. Mark resolved files: `git add <file>`
-5. Complete merge/rebase:
-   - merge: `git commit`
-   - rebase: `git rebase --continue`
-6. Re-check clean state: `git status`
-
-Tip: if you're stuck, abort safely and retry:
-- merge: `git merge --abort`
-- rebase: `git rebase --abort`
+- config/profile.yml: current stated goals and provisional targets; confirm dated measurements before treating them as current.
+- plan/workout-plan.md: active v3 sessions, schedule, home fallbacks, and progression rules.
+- plan/diet-plan.md: active cut target and adjustment rules.
+- plan/evidence-check.md: source review and limits of the plan audit.
+- plan/exercise-videos.md: exercise demonstrations for the active plan.
+- plan/exercise-library.md: supplementary written form references.
+- plan/future-roadmap.md: possible later goals, not the current workout prescription.
+- plan/progression.md: short index pointing to the active progression rules.
+- logs/: historical daily records and the template for new entries.
+- tracking/: weekly review template and optional measurement index.
+- scripts/summarize_week.py: read-only summary of structured log fields.
