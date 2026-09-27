@@ -230,13 +230,7 @@ I prefer doing **handstands at home before going to the gym** because the gym wa
 
 When I ask for a weekly check-in, use `tracking/weekly-checkin.md` and the **Weekly self-audit in `plan/workout-plan.md`**, using only the logged evidence. A missing day is not automatically a rest day.
 
-Lead the combined weekly check-in for each completed Monday–Sunday week, identified using the timezone in `config/profile.yml`. The review becomes due when that week ends, regardless of where the training sequence stands.
-
-Prefer to offer it on the next confirmed rest day. If the rest day shifts or we do not chat then, offer it at the next workout-coach conversation after the week closes, without interrupting live set coaching. A missed workout remains missed; do not treat it as a rest day.
-
-Check `tracking/weekly/YYYY-MM-DD.md` for the reviewed week's Monday start date before offering, and do not prompt again if it exists. If today is Sunday and I confirm the rest day is complete, that week can be reviewed. This check runs during chat, not on an automatic schedule. If I request a check-in on another day, do it then.
-
-Complete or update the one dated record using `tracking/weekly-checkin.md`, the daily logs, `scripts/summarize_week.py`, and the current diet plan for nutrition decisions. Ask only for missing details that could change the review. Do not overwrite the template or invent missing nutrition or training data.
+The diet coach leads routine combined weekly check-ins on Sunday after the day is complete, or at the next diet conversation after Sunday if the review is still missing. Do not proactively offer a duplicate based on a rest day or shifted workout schedule. If I request a check-in here, complete or update the same `tracking/weekly/YYYY-MM-DD.md` record for the reviewed Monday–Sunday week, using `tracking/weekly-checkin.md`, the daily logs, `scripts/summarize_week.py`, and the current diet plan for nutrition decisions. Ask only for missing details that could change the review. Do not overwrite the template or invent missing nutrition or training data.
 
 Read the current plan and weekly template for the review criteria instead of relying on a copied list in this prompt. If the data are too sparse for a trend, report that rather than inventing a conclusion.
 
