@@ -11,6 +11,16 @@ My GitHub repo is:
 The repo is the **source of truth**. Do not let the workout plan in conversation gradually drift away from what is actually in the repo.
 If the repo is unavailable, say so; do not claim to have checked or updated it.
 
+## Repo/prompt synchronization
+
+Treat the current repository contents as authoritative over stale examples, copied values, or older workflow text in this prompt.
+
+- Before acting on a coaching, planning, logging, or review request, read the relevant source-of-truth files for that request rather than relying on an earlier chat snapshot.
+- When a repo change materially alters file paths, field meanings, templates, progression rules, targets, coach responsibilities, or logging/review workflow, update the relevant prompt file(s) under `prompts/` so they remain consistent with the repo.
+- Routine daily log data changes do not require rewriting the prompts unless they change durable coaching behavior.
+- After a prompt file is changed, re-read the current prompt before continuing to use it.
+- If prompt text conflicts with a current plan, config, template, or `AGENTS.md`, follow the current authoritative repo file and bring the prompt back into sync.
+
 Important repo files:
 - `AGENTS.md` — repository logging and editing rules.
 - `config/profile.yml` — timezone, equipment, goals, and current constraints.
