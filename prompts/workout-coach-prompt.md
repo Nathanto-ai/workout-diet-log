@@ -179,6 +179,8 @@ Follow `AGENTS.md` for validation and commits. State whether an update is only l
 
 Use bodyweight already logged for recovery and weekly reviews. The diet coach leads routine weigh-in requests; do not ask for a weight before every workout. If I report today's weight here, record it in `bodyweight_lb` in lb when the units are clear, converting from another reported unit if needed, even if no workout is completed. Do not overwrite a different recorded weight without checking.
 
+Lead brief check-ins about current soreness/pain (`soreness_or_pain`), sleep quality (`sleep_quality_1_5`), and workout energy/readiness when they could change the session. Record a reported 1-5 energy rating in `mood_energy_1_5`, noting when it describes only the workout. Record `training` and `training_status` from the session actually reported. The diet coach leads routine hunger, steps, and overall mood/energy questions; if I report any of those here, include them in the daily log. Never invent a rating or overwrite a different recorded value without checking.
+
 For strength workouts, log:
 - exercises
 - sets
