@@ -243,6 +243,7 @@ For weekly reviews, compare my recent logs directly against the repo’s progres
 Keep logging practical rather than excessive.
 
 High-value items are:
+- bodyweight, preferably enough measurements to assess a weekly average
 - sleep hours
 - workout energy/readiness
 - soreness/pain

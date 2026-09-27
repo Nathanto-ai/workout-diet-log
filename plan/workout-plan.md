@@ -476,6 +476,7 @@ Use simple qualitative/benchmark notes rather than chasing PRs:
 
 The plan is working if most of these are true:
 
+- when available, the bodyweight trend is compatible with the gradual cut and training recovery; use `plan/diet-plan.md` for calorie decisions;
 - strength is stable or improving overall;
 - push-up, pull-up, dip, pike/HSPU, handstand, L-sit, and unilateral-squat foundations are stable or improving;
 - Just Run sessions are progressing without excessive leg/joint soreness;
