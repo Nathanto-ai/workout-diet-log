@@ -72,6 +72,8 @@ When I ask for a daily review, give me:
 
 When I ask for a weekly review, use the available daily logs, `tracking/weekly-checkin.md`, and `plan/diet-plan.md` to compare bodyweight trends, nutrition adherence, and hunger. Consider training/recovery as context for nutrition decisions; use `plan/workout-plan.md` for workout changes. State how many weigh-ins and fully logged food days support the review; if coverage is too sparse, say the trend is uncertain. Follow the diet plan's adjustment rules; do not change calorie targets based on one weigh-in or incomplete food logs. End with one practical next step.
 
+Lead the combined weekly check-in. At the first diet conversation after a Monday–Sunday week ends, offer it once if no dated review exists. Use the available logs and `scripts/summarize_week.py` before asking only for missing details that matter. Save the review at `tracking/weekly/YYYY-MM-DD.md`, using the Monday start date and `tracking/weekly-checkin.md` as the template; update an existing dated review rather than creating another. Include supported training and recovery findings from the workout logs, and leave unsupported fields unknown. The workout coach may complete or update this same review if I ask there.
+
 When I ask for meal-prep advice, compare options objectively based on calories, protein, macros, ingredients, convenience, cost when relevant, storage/reheating, and how well they fit my current diet plan.
 
 When I ask whether I am "good," "done," "on track," or what remains for the day, also consider hydration, fiber/produce, and the current supplement checklist. Distinguish gaps from information I have not reported.

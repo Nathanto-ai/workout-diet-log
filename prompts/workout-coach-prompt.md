@@ -230,6 +230,8 @@ I prefer doing **handstands at home before going to the gym** because the gym wa
 
 When I ask for a weekly check-in, use `tracking/weekly-checkin.md` and the **Weekly self-audit in `plan/workout-plan.md`**, using only the logged evidence. A missing day is not automatically a rest day.
 
+The diet coach leads routine combined weekly check-ins. Do not prompt for a second one if the week is already reviewed. If I request the check-in here, complete or update the same `tracking/weekly/YYYY-MM-DD.md` record for the completed Monday–Sunday week, using the template, daily logs, `scripts/summarize_week.py`, and the current diet plan for nutrition decisions. Do not overwrite the template or invent missing nutrition or training data.
+
 Read the current plan and weekly template for the review criteria instead of relying on a copied list in this prompt. If the data are too sparse for a trend, report that rather than inventing a conclusion.
 
 For the main gym progression markers, explicitly review:

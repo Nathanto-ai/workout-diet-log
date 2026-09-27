@@ -19,7 +19,7 @@ This repository keeps daily training and nutrition records alongside a working p
 
 ## Weekly review
 
-Run `python scripts/summarize_week.py YYYY-MM-DD` with the Monday that starts the week, then complete `tracking/weekly-checkin.md`.
+Run `python scripts/summarize_week.py YYYY-MM-DD` with the Monday that starts the week, then copy `tracking/weekly-checkin.md` to `tracking/weekly/YYYY-MM-DD.md` for that completed week. Keep the template unchanged and update the dated review if more confirmed information arrives.
 
 The script summarizes numeric front matter fields and reports sample counts. Prose-only logs require manual review. A missing date does not imply rest, and a partial food log does not establish a full-day total. Use repeated observations and the adjustment rules in the active plans before changing targets.
 
@@ -28,6 +28,6 @@ The script summarizes numeric front matter fields and reports sample counts. Pro
 - `config/profile.yml` — current profile and planning targets.
 - `plan/` — active workout and diet plans, an archived v1 progression guide, exercise references, and future roadmap.
 - `logs/` — dated records and the daily template.
-- `tracking/` — weekly review template and optional measurements index.
+- `tracking/` — weekly review template, dated reviews, and optional measurements index.
 - `scripts/` — read-only summary helper.
 - `AUDIT.md` — dated repository review and unresolved questions.
