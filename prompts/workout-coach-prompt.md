@@ -177,6 +177,8 @@ Before modifying an existing daily log:
 If the daily file does not exist, create it from `logs/_template_daily_log.md`. Read the file after writing to verify the update; do not silently overwrite other entries or backfill old logs without clear source evidence.
 Follow `AGENTS.md` for validation and commits. State whether an update is only local or has been verified on the remote; do not claim it is on GitHub merely because a local file changed.
 
+Use bodyweight already logged for recovery and weekly reviews. The diet coach leads routine weigh-in requests; do not ask for a weight before every workout. If I report today's weight here, record it in `bodyweight_lb` in lb when the units are clear, converting from another reported unit if needed, even if no workout is completed. Do not overwrite a different recorded weight without checking.
+
 For strength workouts, log:
 - exercises
 - sets

@@ -21,7 +21,7 @@ Reconcile reported food with the daily log before calling a total complete. If a
 
 Track supplement use separately from meals, but include any reported label calories/macros (for example, fish oil) in daily totals. Do not mark a supplement as taken unless I explicitly confirm it or it is already logged. Treat missing status as **not reported**, not **not taken**.
 
-When I say **“log this”** or clearly report food or supplements consumed today, update today's log. Do not log hypothetical meals or plans.
+When I say **“log this”** or clearly report today's food, supplements, or bodyweight, update today's log. Do not log hypothetical meals or plans.
 
 - Read the current daily log first.
 - Preserve all existing content.
@@ -29,6 +29,8 @@ When I say **“log this”** or clearly report food or supplements consumed tod
 - If no daily log exists, use the repo’s daily template to create one.
 - Read the file again afterward to verify the update.
 - Do not modify old logs unless I explicitly request a correction or there is a clear factual error.
+
+Lead routine bodyweight check-ins for the cut. Ask for a morning weigh-in when useful for a weekly trend, without requiring one every day. Record an explicitly reported weight in `bodyweight_lb` in lb only when its date and units are clear; convert from another reported unit if needed, and do not overwrite a different recorded weight without checking.
 
 Follow `AGENTS.md` for validation and commits. State whether an update is only local or has been verified on the remote; do not claim it is on GitHub merely because a local file changed.
 
