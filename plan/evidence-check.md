@@ -1,6 +1,6 @@
 # Evidence Check (quick external validation)
 
-_Sources reviewed: 2026-08-02. Repository data rechecked: 2026-09-26._
+_Initial sources reviewed: 2026-08-02. Repository data rechecked: 2026-09-26. RIR guidance reviewed: 2026-09-27._
 
 This note cross-checks the current **v3 hybrid strength + calisthenics + running + mobility plan** against recent guidance and major reviews.
 
@@ -8,7 +8,14 @@ This note cross-checks the current **v3 hybrid strength + calisthenics + running
 
 - ACSM 2026 resistance-training position stand / summary:
   - https://acsm.org/resistance-training-guidelines-update-2026/
+  - Full position stand: https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/
   - Practical takeaways used here: train major muscle groups regularly; heavier loading is especially useful for strength; higher weekly set volume supports hypertrophy; bodyweight, bands, and home-based resistance training are legitimate resistance-training modes; training to momentary failure and complicated periodization are not required for most healthy adults.
+- Proximity-to-failure meta-regressions (Robinson et al., Sports Medicine, 2024):
+  - https://pubmed.ncbi.nlm.nih.gov/38970765/
+  - Strength gains were similar across a wide range of estimated RIR; hypertrophy tended to improve closer to failure. The exact dose-response remains uncertain because RIR was estimated from study protocols.
+- Failure versus 1-2 RIR training trial (Refalo et al., J Sports Sci, 2024):
+  - https://pubmed.ncbi.nlm.nih.gov/38393985/
+  - Eighteen trained adults performed leg press and leg extension for eight weeks. Quadriceps growth was similar between conditions, while failure produced greater acute fatigue. This does not establish equivalent outcomes for every muscle, exercise, or RIR range.
 - Just Run: Zero to 5K official app listing:
   - https://play.google.com/store/apps/details?id=com.jupli.run
   - Zero to 5K uses three beginner running sessions per week.
@@ -73,6 +80,16 @@ The plan deliberately does not force an exact weekly-set target for every muscle
 The hybrid days add simple load/repetition progression for chest press, row, squat/leg press, and RDL. Pull-ups, dips, and push-ups remain tracked strength movements and can eventually become weighted.
 
 Heavy/performance-sensitive lifts are no longer required to be supersetted. This should make strength progression easier without abandoning time-efficient supersets elsewhere.
+
+## Effort targets (RIR)
+
+**Aligned with the current goals, with practical targets rather than a proven optimum.**
+
+ACSM's 2026 position stand identifies 2-3 RIR as one way to achieve sufficient effort. The proximity-to-failure research supports challenging sets without making failure mandatory; the hypertrophy dose-response findings also caution against assuming that all distances from failure produce identical muscle growth.
+
+For this plan, normal **1-2 RIR** strength work is a chosen target for muscle retention/regain and strength. Temporary **2-3 RIR** work during the restart or a recovery adjustment leaves more reserve while consistency is rebuilt alongside three beginner runs. This application is a programming judgment: the cited studies do not directly test this user's hybrid program during a calorie deficit or prove the exact **1-2 week** restart duration. Reassess from actual training and recovery rather than treating the range or timing as mandatory.
+
+Calisthenics strength sets use the same effort principles as loaded lifts; handstands and other skill practice stop before technique deteriorates. A higher RIR at the top of the prescribed rep range can support progression when the other criteria are met. It is not a reason to force the set closer to failure. RIR is an estimate, so interpret it alongside clean technique, comparable performance, and recovery.
 
 ## Calisthenics skill development
 

@@ -39,6 +39,8 @@ For the first 1-2 weeks back:
 - do not restart the whole plan or make up missed sessions with doubles;
 - build toward the full schedule as soreness, sleep, and consistency improve.
 
+Reassess effort and volume after roughly 1-2 weeks of resumed training, using recent technique, performance, soreness, and reported recovery. Return to the normal target as these support it; retain easier work for movements that still need it. A single missed session does not automatically restart this phase, and elapsed time alone does not establish readiness.
+
 ---
 
 # Day 1 — Upper Hybrid Strength + Calisthenics Fundamentals
@@ -373,7 +375,7 @@ Stop here unless advanced rotational lower-body skills become a deliberate goal.
 ### Graduation rule
 Progress a strength movement when you can complete the prescribed sets at the top of the current range with:
 - clean technique and controlled range;
-- roughly **1-2 RIR**;
+- the **current target RIR or more** remaining;
 - no sharp pain or joint pinching;
 - stable performance across at least **2 sessions**.
 
@@ -392,7 +394,7 @@ Track these as simple load/repetition performance markers:
 
 Use double progression:
 1. Keep the load stable while building reps within the prescribed range.
-2. When all working sets reach the top of the range with ~1-2 RIR and clean technique across at least two comparable sessions, increase the load by the smallest practical increment.
+2. When all working sets reach the top of the range with the current target RIR or more remaining and clean technique across at least two comparable sessions, increase the load by the smallest practical increment. More reserve does not disqualify a set or require pushing closer to failure to earn progression.
 3. Return toward the lower end of the rep range and build again.
 
 Accessories such as lateral raises, leg curls, and calf raises follow the same basic idea but do not need aggressive load jumps.
@@ -429,6 +431,8 @@ The plan deliberately preserves the mobility coverage from v2:
 - If performance and recovery clearly deteriorate across multiple sessions, consider a lighter week with about 30-40% fewer hard working sets before resuming normal volume.
 - After 2+ nights of poor sleep or unusual soreness, reduce volume about 20-30% while keeping technique clean.
 - Persistent or sharp joint pain is a reason to stop/regress the movement, not push through it.
+
+RIR estimates how many additional repetitions you could complete with the same controlled technique and range of motion. The normal 1-2 RIR target is a practical choice for muscle/strength work; 2-3 RIR can also provide productive work during the restart or a temporary recovery adjustment. Apply these targets to loaded lifts and calisthenics strength sets, while handstands and other skill practice remain governed by technique quality. Use performance and recovery to judge the target rather than treating an estimated one-rep difference as exact. See `plan/evidence-check.md` for the research and its limits.
 
 ### Concurrent running rule
 Three beginner Just Run sessions are compatible with the resistance plan, but recovery still matters. Do not add extra hard running while building the base. If lower-body strength, run quality, or soreness consistently worsens, reduce training stress before adding more work.

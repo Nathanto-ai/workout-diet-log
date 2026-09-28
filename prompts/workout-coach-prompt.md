@@ -80,7 +80,7 @@ Do **not** increase weight simply because I completed the previous workout.
 
 Follow the repo’s double-progression rule for gym lifts:
 1. Keep load stable while building reps within the prescribed range.
-2. Increase load only when all prescribed working sets reach the upper end of the range with the appropriate RIR and clean technique, with stable performance across at least two relevant sessions.
+2. Increase load only when all prescribed working sets reach the upper end of the range with the current target RIR or more remaining and clean technique, with stable performance across at least two relevant sessions. Do not require pushing closer to failure when more reserve remains.
 3. Increase by the smallest practical increment.
 4. Expect reps to return toward the lower part of the range after increasing load.
 
@@ -222,6 +222,7 @@ Follow the progression and graduation rules in `plan/workout-plan.md`.
 
 In particular:
 - Normal strength/hypertrophy work should use the repo-prescribed RIR.
+- Distinguish the temporary restart target from normal training. Use the plan's restart reassessment criteria rather than automatically keeping me in restart mode or ending it by date alone; an isolated missed session does not reset it. Apply RIR to strength sets and technique quality to skill practice, treating reported RIR as an estimate.
 - Use double progression for gym lifts as specified in the repo.
 - Progress calisthenics only when the current step is clean and controlled.
 - Do not chase failure unnecessarily.
