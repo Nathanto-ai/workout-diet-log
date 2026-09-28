@@ -21,6 +21,8 @@ This roadmap captures physical qualities and skills that may be worth developing
 
 # Long-term physical capability categories
 
+These categories overlap and organize future interests; they are not separate requirements to maximize. **Current coverage** describes the v3 plan's exercise selection on paper, not measured ability, demonstrated progress, or proof that the dose is sufficient for this person. Use logged performance and recovery to assess results.
+
 ## 1. Muscle / hypertrophy
 
 Goal: maintain or build useful muscle mass and physique.
@@ -155,6 +157,8 @@ Goal: control body position using visual, vestibular, and proprioceptive informa
 
 Current coverage: moderate through handstands, unilateral squats, single-leg RDLs, and Cossacks, but not yet trained or measured as a dedicated quality.
 
+Balance progress is specific to the task practiced. Choose a test that matches the goal; a handstand hold and a single-leg stance describe different abilities rather than one overall balance score.
+
 Future options:
 - single-leg stance;
 - eyes-closed single-leg stance;
@@ -195,7 +199,7 @@ Possible measurements:
 
 Goal: produce force quickly.
 
-Current coverage: weak and the clearest major gap in the current plan.
+Current coverage: no dedicated power training. This is an optional future area for broader athletic capability; its absence does not establish a problem with the current cut, strength, calisthenics, and beginner-running priorities.
 
 Possible future work:
 - pogo jumps;
@@ -343,6 +347,8 @@ Movement skills are not automatically more important than strength or endurance.
 
 # Future mobility skill tree
 
+The lists below group possible goals rather than define mandatory prerequisite ladders. When a goal becomes active, use its specific preparation and progression; completing every earlier listed skill is not required.
+
 ## Lower body
 1. Comfortable deep squat
 2. Full controlled Cossack
@@ -372,7 +378,9 @@ Do not pursue every branch simultaneously. When dedicated mobility-skill trainin
 
 # Possible future benchmark dashboard
 
-Retest roughly every 6-8 weeks when these qualities become active priorities.
+At the broader program review roughly every 6-8 weeks, use a small selection of benchmarks for **active priorities**. Follow the timing and record rules in `plan/workout-plan.md` and the optional section in `tracking/weekly-checkin.md`.
+
+Use ordinary comparable workout results first, recording the variation, equipment, range of motion, and effort. Repeat a selected formal benchmark when it would clarify a decision, under consistent conditions. The list below is a menu; future interests do not all need baseline tests now.
 
 - **Strength:** standardized squat/leg-press and RDL performance; pull-ups/dips.
 - **Cardio:** 5K time or standardized easy-run pace/RPE.
@@ -389,27 +397,35 @@ The dashboard should remain small enough that testing does not become its own tr
 
 ---
 
-# Likely future sequence
+# Future development options
 
-## Phase 0 — Current
-Keep v3 essentially unchanged. Build consistency, strength, running capacity, calisthenics fundamentals, and general mobility.
+The foundation and measurement support all future choices. The remaining options can be selected, combined sparingly, or revisited according to goals and readiness; their order below is not a required sequence.
 
-## Phase 1 — Add measurement
+Use the broader program review to choose the next focus:
+
+- Check that current training fits the schedule and that performance and recovery support the proposed work. If evidence is sparse, address the obstacles or establish the relevant baseline first.
+- Prefer a next step that advances current strength, calisthenics, running, or mobility goals. Choose power, balance, coordination, climbing, speed, or agility when they become deliberate interests rather than to fill every category.
+- Define a small change, what it replaces or rotates, one useful progress marker, and how it will be evaluated in weekly and broader reviews. The cut can continue while a recoverable next step is introduced; it does not impose a mandatory end date for all skill development.
+
+## Current foundation
+Use v3 as the active baseline. Build consistency, strength, running capacity, calisthenics fundamentals, and general mobility; make supported adjustments under its review and recovery rules.
+
+## Establish useful measurement
 Once training is stable, establish a small capability benchmark set. Do not add large amounts of new training yet.
 
-## Phase 2 — Add low-volume power
+## Option — Low-volume power
 Introduce a small power primer, likely once per week initially, while monitoring running and lower-body recovery.
 
-## Phase 3 — Formalize mobility skills
+## Option — Goal-specific mobility skills
 Replace some generic mobility volume with goal-specific progressions such as front split + bridge, then rotate goals over time.
 
-## Phase 4 — Add balance / coordination / athletic movement
+## Option — Balance / coordination / athletic movement
 Use small 5-10 minute blocks or substitutions rather than simply making workouts longer. Possible tools include jump rope, landing practice, crawling, lateral movement, and simple balance drills.
 
-## Phase 5 — Rebuild cardio structure after Zero-to-5K
-Reassess whether the long-term running setup should include an easy aerobic run, a faster quality session, and a longer/easy run.
+## Milestone — Cardio structure after Zero-to-5K
+When Zero-to-5K is completed, reassess the running setup then, regardless of which other options have been explored. Choose the structure around the running goal and recovery; an easy aerobic run, a faster quality session, and a longer/easy run are possible components rather than an automatic prescription.
 
-## Phase 6 — Specialize selectively
+## Option — Selective specialization
 Choose future blocks according to interest: advanced calisthenics, splits/backbends, climbing, sprinting, agility, power, or other movement skills. Not every capacity must be maximized at once.
 
 ---

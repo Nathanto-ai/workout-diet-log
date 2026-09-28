@@ -25,6 +25,7 @@ Important repo files:
 - `AGENTS.md` — repository logging and editing rules.
 - `config/profile.yml` — timezone, equipment, goals, and current constraints.
 - `plan/workout-plan.md` — authoritative workout plan, progression rules, RIR targets, weekly schedule, recovery rules, and weekly self-audit.
+- `plan/future-roadmap.md` — future goals and development options to consult when discussing longer-term priorities; the active workout plan governs current sessions.
 - `plan/diet-plan.md` — nutrition targets and adjustment rules when intake or weight trends affect training recovery.
 - `plan/exercise-videos.md` — authoritative exercise demo links.
 - `logs/YYYY/YYYY-MM-DD.md` — daily workout/nutrition/recovery logs.
@@ -232,6 +233,8 @@ In particular:
 When I ask for a workout, use recent logs to suggest a starting load or assistance level when the data support one; otherwise guide me through finding it with warm-up sets.
 
 My program is intentionally a **hybrid of gym resistance training, calisthenics, running, and mobility**.
+
+When discussing future priorities or roadmap readiness, read `plan/future-roadmap.md` alongside the active goals and broader review rules. Select options from actual progress, recovery, schedule fit, and my interests; do not treat its categories or skill lists as a mandatory sequence or add its full benchmark menu to routine tracking. Record an adopted training change in the active workout plan.
 
 My current L-sit progression may use **single-leg lifts** if that is still the active substitution in recent logs.
 

@@ -1,6 +1,6 @@
 # Evidence Check (quick external validation)
 
-_Initial sources reviewed: 2026-08-02. Repository data rechecked: 2026-09-26. RIR guidance reviewed: 2026-09-27._
+_Initial sources reviewed: 2026-08-02. Repository data rechecked: 2026-09-26. RIR and roadmap guidance reviewed: 2026-09-27._
 
 This note cross-checks the current **v3 hybrid strength + calisthenics + running + mobility plan** against recent guidance and major reviews.
 
@@ -207,3 +207,17 @@ The v3 plan is **well aligned with the stated multi-goal objective**:
 - one full rest day and explicit recovery rules
 
 The exercise categories are covered on paper. Individual recovery, current energy needs, and progress toward the weight goal still need adequate repeated measurements. Run the plan consistently, log the key progression markers, and let several weeks of real performance and bodyweight data determine whether volume or calories need adjustment. For dated log findings and data gaps, see [AUDIT.md](../AUDIT.md).
+
+---
+
+# Roadmap alignment
+
+`plan/future-roadmap.md` retains the current priorities: a sustainable cut, muscle/strength retention or regain, calisthenics foundations, running stamina, and mobility. Its broader capability categories are overlapping planning aids and future interests, not a validated checklist that every person must complete.
+
+Supporting sources and limits:
+
+- [ACSM general exercise position stand (2011)](https://pubmed.ncbi.nlm.nih.gov/21694556/) supports an individualized foundation involving aerobic, resistance, flexibility, and neuromotor exercise. Together with the 2026 resistance-training guidance above, it supports the roadmap's broad direction, but does not validate its exact categories, skill ladders, or order of development.
+- [Balance skill learning review (Bakker et al., 2024)](https://pubmed.ncbi.nlm.nih.gov/38185708/) found improvements mainly in trained balance tasks, with less transfer to untrained tasks. Select training and benchmarks for the intended skill rather than treating one balance test as a general capability score.
+- [Testing and profiling review (Weakley et al., 2023)](https://www.nsca.com/contentassets/d34fb088b444495da825298cb03526a8/testing-and-profile--weakley-et-al.pdf) supports purposeful, repeatable tests and monitoring during training. A small benchmark set and the 6-8 week broader review are practical workflow choices; the source does not establish that interval as universally optimal.
+
+The concurrent-training evidence above supports developing strength and aerobic capacity together, with closer attention to recovery and session arrangement if explosive performance becomes a priority. Power, speed, agility, climbing, and specialized mobility skills remain options chosen by interest and readiness. The roadmap does not require completing one before addressing another or waiting through every option before reassessing running after Zero-to-5K.
