@@ -486,3 +486,30 @@ The plan is working if most of these are true:
 - gym timing problems are solved with home fallbacks instead of skipped sessions.
 
 If several of these deteriorate together for 2+ weeks, review sleep, total hard-set volume, running fatigue, and the nutrition trend under `plan/diet-plan.md` before adding exercises.
+
+---
+
+# Broader program review
+
+Expand a weekly check-in into a broader program review roughly every **6-8 calendar weeks**. Use it to judge progress and whether the program still fits current goals, recovery, and schedule. This is a practical review window, not a requirement to change the program on a fixed cycle. Ordinary progression and necessary recovery adjustments continue between reviews.
+
+## Timing and record
+
+- During the combined weekly check-in, check dated records in `tracking/weekly/` for the latest filled **Broader review completed on** date. An empty template section does not count as a completed review.
+- If no completed broader review exists, use the recorded **Broader review baseline date**. If neither date exists, establish a baseline from available reported observations at the next check-in and record that date; leave missing measurements unknown and the completion date blank.
+- Offer the broader review once 6 weeks have elapsed from that completion or initial baseline date, aiming to complete it by about 8 weeks. If overdue, offer it at the next weekly check-in conversation. Skipped workouts do not reset the window, and this happens during chat rather than on an automatic schedule.
+- Complete the optional **Broader program review** section in the same dated weekly record, using `tracking/weekly-checkin.md`. Record the actual completion date, the period reviewed, baseline references, and the next review window. Either coach can complete a requested review; use the same record rather than creating a duplicate.
+
+## Progress and benchmarks
+
+- Use the daily logs and dated weekly reviews since the previous broader review or initial baseline. State the coverage and number of comparable sessions behind each conclusion.
+- Compare a small selection of the **Key progression markers to log** above, chosen for active goals: gym load/reps/RIR, calisthenics variation/assistance/reps or hold quality, Just Run progress/duration/effort, and relevant mobility observations. Include the supported weight/nutrition trend under `plan/diet-plan.md`.
+- Use ordinary workout results whenever possible. Keep comparisons consistent in exercise variation, equipment, assistance, range of motion, and effort; explain differences that limit comparison. Repeat a selected benchmark only when it would clarify a decision, using a consistent protocol within a normal session. A separate maximal-effort test week is not required.
+- Interpret progress against current priorities. Maintaining strength during the cut can support the goal even when loads are not rising. Review completed training, sleep/recovery, recurring discomfort, enjoyment, and schedule obstacles before concluding that the program is ineffective.
+- If evidence is sparse, review adherence and obstacles, establish the missing baseline where practical, and state which outcomes remain uncertain. A lack of measurements is not evidence of stalled progress.
+
+## Decision
+
+Choose **keep the plan**, **adjust the plan**, **change priorities**, or **insufficient evidence to judge progress**. Keep the plan when it is working. When a change is supported, identify the problem, explain the proposed change, and define which observations would show whether it helped. Prefer one targeted change at a time when practical, and check its effect in subsequent weekly reviews.
+
+Use `plan/future-roadmap.md` to consider future priorities when readiness and interest support them; its full benchmark dashboard is not a current testing checklist. New work should usually replace, rotate, or specialize existing work. Record durable changes in the active plan and reconcile affected prompts. Make calorie decisions under `plan/diet-plan.md`.

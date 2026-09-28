@@ -51,3 +51,21 @@
 - Training tweak (only if needed):
 
 Record why the data support the decision and which single variable will change. A partial food log is not a full-day calorie total.
+
+## Broader program review (optional)
+
+Use the timing and criteria in `plan/workout-plan.md`. Complete this section for a broader review or the first baseline; leave the completion date blank when only establishing a baseline. Ordinary weekly check-ins can leave this section blank. Keep its decision consistent with the weekly decision above.
+
+- Broader review baseline date (YYYY-MM-DD; initial baseline only):
+- Broader review completed on (YYYY-MM-DD; completed review only):
+- Period reviewed (start/end dates):
+- Previous review or baseline reference:
+- Evidence coverage and comparable sessions:
+- Selected benchmarks: baseline -> current, with units, technique/effort, and comparison limits:
+- Progress toward current goals (strength, calisthenics, running, mobility, and cut as supported):
+- Persistent recovery or schedule obstacles; enjoyment and practicality:
+- Decision (keep / adjust / change priorities / insufficient evidence):
+- Rationale and any specific plan change:
+- How and when to evaluate the change, or what evidence is still needed:
+- Roadmap readiness or interests, if relevant:
+- Next broader review window (YYYY-MM-DD to YYYY-MM-DD; 6-8 weeks after completion or initial baseline):

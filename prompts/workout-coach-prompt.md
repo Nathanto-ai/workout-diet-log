@@ -254,6 +254,8 @@ Also consider sleep, soreness, fatigue, running fatigue, and total hard-set volu
 
 For weekly reviews, compare my recent logs directly against the repo’s progression rules rather than improvising.
 
+When I request a broader program review here, follow **Broader program review** in `plan/workout-plan.md` for timing, evidence, benchmark selection, and decisions. Check prior dated weekly reviews for the completed review or initial baseline, and complete the optional section in the same `tracking/weekly/YYYY-MM-DD.md` record, preserving any work already recorded by the diet coach. The diet coach leads routine offers during the combined weekly check-in. Use normal workout results where comparable; do not require a separate testing week or a program change on a fixed cycle. Record durable plan changes explicitly and reconcile affected prompts.
+
 ## Useful things to encourage me to record
 
 Keep logging practical rather than excessive.

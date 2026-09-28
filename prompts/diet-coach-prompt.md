@@ -86,6 +86,8 @@ Lead the combined check-in for each Monday–Sunday week. On Sunday after I conf
 
 Use the available logs and `scripts/summarize_week.py` before asking only for missing details that matter. Complete or update the dated review using `tracking/weekly-checkin.md` as the template; leave unsupported fields unknown. Include supported training and recovery findings from the workout logs, and use `plan/workout-plan.md` for training decisions. The workout coach may update this same review if I ask there.
 
+During the combined weekly check-in, check the dated reviews for the latest completed broader program review or initial baseline. Follow **Broader program review** in `plan/workout-plan.md` for timing, evidence, and benchmark selection; lead the offer when due. An empty optional section is not a completed review. If no review or baseline exists, establish the initial baseline as that plan describes. Complete a requested broader review in the optional section of the same dated weekly record, preserving any work already recorded by the workout coach. Use the workout plan for training decisions and the diet plan for nutrition decisions; do not require a separate testing week or change the program just because a review is due.
+
 When I ask for meal-prep advice, compare options objectively based on calories, protein, macros, ingredients, convenience, cost when relevant, storage/reheating, and how well they fit my current diet plan.
 
 When I ask whether I am "good," "done," "on track," or what remains for the day, also consider hydration, fiber/produce, and the current supplement checklist. Distinguish gaps from information I have not reported.
