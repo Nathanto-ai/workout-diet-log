@@ -203,6 +203,25 @@ Thoracic rotation, couch stretch, and 90/90 hip-switch references are reused fro
 
 ## Day 5 — Pure Calisthenics Skill + Strength
 
+### Wrist circles + wrist rocks
+- **Programmed:** 45-60 sec
+- **Demo:** GMB Fitness — Get Strong And Flexible Wrists With This Ready-to-go Wrist Prep Routine!
+- https://www.youtube.com/watch?v=mSZWSQSSEjE
+- **Cue:** Start with easy wrist circles, then use gentle weight-bearing rocks through a comfortable range. Keep the motion controlled and back off if the wrists feel pinchy or painful.
+- **Note:** This is a broader wrist-prep routine; use the circle/rocking portions that match the programmed warm-up rather than treating the entire video as extra required volume.
+
+### Pike hold
+- **Programmed:** 20-30 sec
+- **Demo:** K Squared Fitness — Pike Hold
+- https://www.youtube.com/watch?v=8KH-KCwfA4s
+- **Cue:** Keep the hips high, arms straight, shoulders actively pushing away from the floor, and trunk controlled. Use a knee bend if hamstring mobility limits the position.
+
+### Light band face pull
+- **Programmed:** 12-15 reps
+- **Demo:** E3 Rehab Exercise Library — Banded Face Pull
+- https://www.youtube.com/watch?v=zAKh8KZllEQ
+- **Cue:** Pull the band toward the face under control, keep the ribs/trunk quiet, and use light resistance that lets the shoulders move smoothly.
+
 ### Pike push-up
 - **Programmed:** 6-12 reps
 - **Demo:** Hinge Health — Pike Push-Up
@@ -240,7 +259,15 @@ Thoracic rotation, couch stretch, and 90/90 hip-switch references are reused fro
 - https://www.youtube.com/watch?v=Zfr6wizR8rs
 - **Cue:** Reach the free leg back while keeping the pelvis controlled; use support if balance limits the hinge.
 
-Other Day 5 movements reuse the Day 1 references for scapular push-ups, pull-ups, dips, push-ups, shoulder CARs, and wall slides, plus the Day 6 reference for 90/90 hip switches.
+### Wrist flexor/extensor stretch
+- **Programmed:** 30 sec each
+- **Flexor demo:** Merck Manuals — Wrist Flexor Stretch
+- https://www.youtube.com/watch?v=RRM63cEPGa8
+- **Extensor demo:** Merck Manuals — Wrist Extensor Stretch
+- https://www.youtube.com/watch?v=DPyY_Gg9r0w
+- **Cue:** Keep the elbow straight and apply only enough hand pressure to create a comfortable forearm stretch. Do not force the wrist into pain.
+
+Other Day 5 movements reuse the Day 1 references for scapular push-ups, pull-ups, dips, push-ups, shoulder CARs, and wall slides; the Day 3 touchdown/lateral-step-down reference for the current primary single-leg squat progression; and the Day 6 reference for 90/90 hip switches.
 
 ## Day 6 — Just Run + Mobility
 
@@ -288,8 +315,7 @@ These same references also apply when the movements appear on other days:
 ## Still-unverified gaps
 
 Do not invent URLs for these. Verify a reputable direct demo first, then add it here if useful:
-- wrist circles/rocks and wrist flexor/extensor stretch
 - lying leg raise fallback on Day 3
 - assisted pistol or shrimp-specific demo once the primary single-leg squat progression advances beyond the current touchdown/lateral-step-down stage
 
-Last consolidated: 2026-08-08.
+Last consolidated: 2026-10-01.
