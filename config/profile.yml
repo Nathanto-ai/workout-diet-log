@@ -42,5 +42,5 @@ nutrition:
   calorie_target_kcal: 1900
   calorie_flexible_range_kcal: [1800, 2000]
   protein_target_g_range: [160, 180]
-  preferred_structure: "Huel Black with Kirkland 2% ultra-filtered milk when convenient, alongside meals; no fixed shake count"
+  preferred_structure: "Typically skips breakfast; Huel Black with Kirkland 2% ultra-filtered milk when convenient, alongside meals; no fixed shake count"
   coaching_mode: "log in chat after each meal/workout; ask for daily plan each morning"
