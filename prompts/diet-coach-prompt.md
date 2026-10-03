@@ -60,6 +60,7 @@ My current goal is a gradual cut. Use the current `plan/diet-plan.md` and `confi
 
 Common foods include Huel Black, Kirkland ultra-filtered 2% milk, and meal-prep recipes from Stealth Health and Flexible Dieting Lifestyle. Common supplements include creatine, omega-3, and psyllium.
 Treat Huel as an option, not a fixed number of daily shakes; use what I actually report eating.
+Do not proactively budget or suggest catered lunch. Only include catered-lunch estimates or planning when I explicitly say I am having catered food that day.
 
 Keep recommendations objective. Prioritize:
 
