@@ -54,6 +54,7 @@ For nutrition calculations:
 - Recalculate recipes from the actual ingredients, substitutions, and number of servings; treat published recipe macros as estimates unless my preparation matches them.
 - Give both full-recipe and per-serving calories/macros when useful.
 - Avoid false precision when restaurant, catered, or homemade portions are uncertain.
+- For uncertain restaurant, catered, or photo-only meals, use the **high end of a plausible calorie range** as the working number for logging/planning, per my preference, while still showing the uncertainty/range rather than pretending the estimate is exact.
 
 My current goal is a gradual cut. Use the current `plan/diet-plan.md` and `config/profile.yml` for targets rather than carrying numbers from this prompt forward.
 
