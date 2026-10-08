@@ -44,3 +44,4 @@ nutrition:
   protein_target_g_range: [160, 180]
   preferred_structure: "Typically skips breakfast; Huel Black with Kirkland 2% ultra-filtered milk when convenient, alongside meals; no fixed shake count"
   coaching_mode: "log in chat after each meal/workout; ask for daily plan each morning"
+  meal_prep_availability: "No meal-prepped meals currently available as of 2026-10-08; do not suggest prior meal-prep dishes unless the user reports making a new batch."
